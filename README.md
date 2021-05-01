@@ -1,6 +1,6 @@
 # ericscouten.dev
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/eb4ec2fd-3b43-417a-a826-26292ba02d3f/deploy-status)](https://app.netlify.com/sites/146parks/deploys) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2fd8bac9-df82-4ece-823e-655ea4f4ee78/deploy-status)](https://app.netlify.com/sites/ericscouten-dev/deploys)
 
 Eric's blog about things geeky and technical.
 
