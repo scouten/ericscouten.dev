@@ -1,0 +1,15 @@
+base_url = "https://ericscouten.dev"
+
+title = "Eric Scouten :: Developer"
+description = "My home for things geeky."
+default_language = "en"
+
+compile_sass = true
+build_search_index = true
+
+generate_feed = true
+feed_filename = "rss.xml"
+
+[markdown]
+highlight_code = true
+smart_punctuation = true

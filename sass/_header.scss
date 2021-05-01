@@ -1,0 +1,124 @@
+header {
+    background-color: $dark-accent-background;
+    padding: 2em 0;
+    overflow: hidden;
+    width: 100%;
+    height: 13em;
+
+    .brand {
+        margin-top: 1em;
+        text-align: center;
+    }
+
+    .nav {
+        margin: .6em auto;
+        text-align: center;
+
+        li {
+            display: inline;
+            margin: 0 .4em;
+        }
+    
+        a {
+            text-decoration: none;
+        }
+    }
+
+    .parks .parks a, .map .map a, .about .about a {
+        border-bottom: 2px solid white;
+    }
+}
+
+mini-header {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s;
+    position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 999;
+    background: linear-gradient( rgba(31, 26, 23, .7), 70%, rgba(31, 26, 23, 0));
+    height: 65px;
+    width: 100%;
+    padding: 6px 8px 17px 10px;
+
+    a {
+        text-decoration: none !important;
+    }
+
+    .sequence-assembly {
+        flex: none;
+        position: relative;
+        width: 49px;
+        height: 32px;
+        overflow: hidden;
+    }
+
+    .sequence {
+        position: absolute;
+        bottom: 3px;
+        right: 2px;
+        text-align: center;
+        opacity: 0;
+        transition: opacity 0.5s;
+
+        width: 32px;
+        height: 32px;
+        color: $dark-accent-background;
+        font-family: interstate, sans-serif;
+        font-size: 90%;
+        font-weight: 700;
+
+        a {
+            color: $dark-accent-background !important;
+        }
+    }
+
+    div.title {
+        opacity: 0;
+        transition: opacity 0.5s;
+        margin-top: .075em;
+        padding-left: .35em;
+        line-height: 1;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .name {
+        color: white;
+        font-family: interstate, sans-serif;
+        font-size: 80%;
+        font-weight: 700;
+        padding-right: .05em;
+    }
+
+    .designator {
+        color: white;
+        font-family: interstate, sans-serif;
+        font-size: 60%;
+        font-weight: 400;
+        white-space: nowrap;
+    }
+}
+
+mini-header.visible {
+    display: flex;
+}
+
+mini-header.active {
+    opacity: 1;
+    transition: opacity 0.5s;
+}
+
+mini-header.add-title {
+    .sequence {
+        opacity: 1;
+        transition: opacity 0.5s;
+    }
+
+    div.title {
+        opacity: 0.5;
+        transition: opacity 0.5s;
+    }
+}
