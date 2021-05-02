@@ -1,50 +1,16 @@
 @charset "utf-8";
 
+$main-section-background: rgb(53, 45, 40);
+$dark-accent-background: rgb(31, 26, 23);
+$scheme-main: rgb(31, 26, 23);
+$text: hsl(0, 0%, 100%);
+$link: hsl(0, 0%, 70%);
+
+$preferred-text-width: 34em;
+
+$family-primary: adobe-caslon-pro, serif;
+$body-font-size: 1.35em;
+$body-line-height: 1.9;
+
 // @import url('https://use.typekit.net/gyv3tia.css');
-@import "./variables";
-@import "../vendor/bulma/bulma";
-
-@import "./header";
-@import "./footer";
-
-section.root {
-    background-color: $main-section-background;
-
-    .container {
-        max-width: none !important;
-    }
-}
-
-a:hover {
-    color: hsl(0, 0, 100%);
-    text-decoration: underline;
-}
-
-strong {
-    color: white;
-}
-
-.anti-section {
-    margin-left: -1.5rem;
-    margin-right: -1.5rem;
-}
-
-@media screen and (min-width: 1024px) {
-    .anti-section {
-        margin-left: -3rem;
-        margin-right: -3rem;
-    }
-    .anti-section.is-medium {
-        margin-left: -4.5em;
-        margin-right: -4.5em;
-    }
-    .anti-section.is-large {
-        margin-left: -6em;
-        margin-right: -6em;
-    }
-}
-
-p, ul {
-    max-width: $preferred-text-width;
-    margin: 1.6em auto;
-}
+@import "../themes/zola-es-theme/sass/style.scss";
