@@ -162,7 +162,7 @@ I worked for Metrowerks as a telecommuter from Minnesota.
 
 ## Adobe
 
-![ImageReady](//imageready-1-0-preview.png)
+![ImageReady](./imageready-1-0-preview.png)
 
 Early in 1997, I was shown an embroyonic new graphics application that
 was being developed in [Adobe Systems’](https://www.adobe.com/)
