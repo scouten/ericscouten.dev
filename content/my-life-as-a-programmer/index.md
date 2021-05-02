@@ -77,7 +77,7 @@ modifying NCSA Telnet for our purposes. But the code was just too messy.
 right across the street from their offices -- and then later hire one of
 them.)
 
-![StatShow](/assets/images/pages/my-life/statshow-icon.gif)
+![StatShow](./statshow-icon.gif)
 
 So I wrote my own Telnet. I was consumed. I worked 60- and 70-hours weeks in
 a mad coding frenzy in July. (My job was supposedly 3/4 time.) Friends
@@ -124,7 +124,7 @@ where I almost completed a masters in computer science. For my first year
 there, I worked with [Charley Kline](https://twitter.com/cvkline) as a
 research assistant.
 
-![Maven](/assets/images/pages/my-life/maven-icon.gif)
+![Maven](./maven-icon.gif)
 
 Charley had written a nifty little program called **Maven,** which allowed you
 to use a Macintosh on the Internet as a voice conferencing tool. About the time
@@ -146,7 +146,7 @@ gathering dust in my closet?)**
 
 ## Metrowerks
 
-![Constructor](/assets/images/pages/my-life/constructor-icon.gif)
+![Constructor](./constructor-icon.gif)
 
 By some combination of right time, right place, right skills, I became the
 lead author of Metrowerks’ Constructor in April of 1995. Constructor is
@@ -162,7 +162,7 @@ I worked for Metrowerks as a telecommuter from Minnesota.
 
 ## Adobe
 
-![ImageReady](/assets/images/pages/my-life/imageready-1-0-preview.png)
+![ImageReady](//imageready-1-0-preview.png)
 
 Early in 1997, I was shown an embroyonic new graphics application that
 was being developed in [Adobe Systems’](https://www.adobe.com/)
