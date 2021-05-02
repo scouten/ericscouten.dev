@@ -1,15 +1,13 @@
 @charset "utf-8";
 
-$main-section-background: rgb(53, 45, 40);
-$dark-accent-background: rgb(31, 26, 23);
-$scheme-main: rgb(31, 26, 23);
-$text: hsl(0, 0%, 100%);
-$link: hsl(0, 0%, 70%);
+$main-section-background: white;
+$text: black;
+ 
+$preferred-text-width: 45rem;
+ 
+// $family-primary: adobe-caslon-pro, serif;
+// $body-font-size: 1.35em;
 
-$preferred-text-width: 34em;
-
-$family-primary: adobe-caslon-pro, serif;
-$body-font-size: 1.35em;
 $body-line-height: 1.9;
 
 // @import url('https://use.typekit.net/gyv3tia.css');
