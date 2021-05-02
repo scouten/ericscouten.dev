@@ -116,7 +116,7 @@ weeks. But when it was done, I could compile TCL with the DR/2 version of
 CodeWarrior. In May I released a kit that patched the TCL sources to my
 version. It was an instant success. Over the course of that year, I talked
 with a few hundred developers who were using the kit and forged a
-relationship with Metrowerks that proved to be far more important my
+relationship with Metrowerks that proved to be far more important to my
 career than I ever could have anticipated.
 
 Later in 1994, I left Minnesota to attend the University of Illinois
