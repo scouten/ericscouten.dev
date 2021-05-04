@@ -2,21 +2,14 @@
 title = "My Life as a Programmer"
 +++
 
-In which I admit that I’ve been around the block for a while …
-
 _This article first appeared on my site in 1997. I took it down when I redesigned
-the site sometime around 2001. It’s now 2018 and I’ve decided I miss it, so I dug
-back in the archives and added it back._
+the site sometime around 2001. In 2018, I decided I missed it, so I dug
+back in the archives and added it back. I've added a few updates in 2021._
 
-### Geek Alert
-
-This is a jargon-filled page. If you’re a programmer, enjoy! If not, well …
-you might find this page pretty disappointing.
-
-### The Early Years
+## The Early Years
 
 I first put fingers to a computer keyboard more than twenty years ago (when
-I could still count my age on my fingers!). **2018 update: This would now be more
+I could still count my age on my fingers!). **2021 update: This would now be well more
 than forty years ago.** 😳 My dad brought home one of the first Apple II
 computers sold in the state of Iowa and I played Star Wars on it. Then I
 started writing my own games, and discovered that the challenge of writing
@@ -67,7 +60,9 @@ completed a bachelors degree in psychology and worked as a free-lance
 graphic designer for the fun of it. My main work was as a statistical
 consultant for the University of Minnesota.
 
-### Recent Stuff
+## Recent Stuff
+
+**2021 Update: Now not so recent ...**
 
 In 1993, I started work on a tool that we would use at U of M for doing
 interactive statistical presentations. We needed a custom front-end for
@@ -79,7 +74,10 @@ them.)
 
 ![StatShow](./statshow-icon.gif)
 
-So I wrote my own Telnet. I was consumed. I worked 60- and 70-hours weeks in
+**2021 Update: Remember when these icons looked large? I no longer have a
+machine to run these old programs on, so these are the icons I have.**
+
+So I wrote my own Telnet. I was consumed. I worked 60- and 70-hour weeks in
 a mad coding frenzy in July. (My job was supposedly 3/4 time.) Friends
 wondered if I had fallen off the planet. StatShow was born late in July
 and became a primary analysis tool in the office where I worked. This was
@@ -93,12 +91,13 @@ me with their suggestions. Two early users (Brian and Dan, you know who
 you are!) became important friends and mentors.
 
 **Hint to aspiring programmers:** If you see something missing from
-your favorite operating system, class library, whatever... _write it!_
+your favorite operating system, class library, whatever ... _write it!_
 Somebody else probably wishes the same thing were out there. Put the
 source out on the Internet, make sure people can get in touch with you,
 and listen to their suggestions! Don’t expect to make scads of money (or
 even _any_ money), but what you’ll learn from talking with your
-users will be invaluable.
+users will be invaluable. **2021 update: GitHub is your friend. Seriously.
+I wish it had been there in the 1990s.**
 
 TurboTCP and my test applications were all written using the Think Class
 Library. When the first PowerPC Macintoshes were released in March 1994, I
@@ -139,10 +138,10 @@ So a lot of my time was spent deep in the bowels of the programming,
 recovering from weird crashes I had caused and poking around in MacsBug.
 Over the course of the year, I pretty much completely rewrote Maven. You
 can download the latest version <strike>here</strike>. By the way, neither
-Charley nor I are working on Maven any longer. **(2018 update: I don’t
-believe Maven is available for download any more. And where would you find a
-Mac that could run it? Oh, except for that PowerMac 6100 that is still around
-gathering dust in my closet?)**
+Charley nor I are working on Maven any longer. **2021 update: Maven isn't
+available for download any more. And where would you find a Mac that could
+run it? Oh, right. That PowerMac 6100 that is still around gathering dust
+in my closet? Yeah, I _still_ have it.**
 
 ## Metrowerks
 
@@ -152,7 +151,7 @@ By some combination of right time, right place, right skills, I became the
 lead author of Metrowerks’ Constructor in April of 1995. Constructor is
 the visual interface builder for the PowerPlant framework. It was a
 wonderful growth experience for me: I got the chance to develop many of my
-ideas and philosophies about user interface design, and I got a lot of
+ideas and philosophies about user interface design and I got a lot of
 feedback from my peers in the industry. (There’s something rather
 invigorating about having customers who truly understand the nature of
 your work.) Somehow that work distracted me from my academic pursuits
@@ -170,31 +169,31 @@ Northwoods office (conveniently located in the northern suburbs of Saint
 Paul). Given my dual background as graphic artist and software engineer, I
 was immediately attracted to this product and after much cajoling, I convinced
 the folks at Adobe that hiring me would be a good idea (… or did they convince
-me?). The embroyo has since hatched, and is now known as Adobe ImageReady
-(now a part of [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)).
+me?). The embroyo has since hatched, and is now known as Adobe ImageReady.
 My web site and ImageReady evolved together. I started using ImageReady to build
-the graphics for this site early in its development cycle, and those experiences
-were very influential in shaping the final product.
+the graphics for ~~this site~~ early in its development cycle, and those experiences
+were very influential in shaping the final product. **2021 update: As it has for
+everybody else, that ship has sailed. I'm no longer using ImageReady to build this
+site or anything else.**
 
-## 2018 Update
+## 2021 Update
 
 As I mentioned at the start of this page, it’s now been two decades since I wrote
 the original article.
 
-ImageReady has been off the market for several years now. Parts of it have been
+ImageReady has been off the market for more than a decade now. Parts of it have been
 subsumed into Photoshop.
 
-As happens, I’ve moved on and been parts of many other projects. In almost 22 years
+As happens, I’ve moved on and been parts of many other projects. In more than 24 years
 at Adobe, I’ve been part of more than a dozen projects that have started from scratch.
 Several have made it to market; some have not.
 
 By far, the highlight of my career has been the ability to serve serious photographers
-as part of the team that originally brought Lightroom to market in 2007. That work has
+as part of the team that originally brought Lightroom to market in 2007. That work
 afforded me the opportunity to meet some of the most preeminent photographers and graphic
 designers of this era. I couldn't be more grateful for that. I’ve also had the
 opportunity to work with and learn from many talented developers, architects, and
 user-experience designers in my time here.
 
-I’m no longer part of the team that’s building Lightroom. I’m sad about that, but
-I still have the opportunity to build great software. I look forward to sharing
+I’m no longer part of the team that’s building Lightroom. I look forward to sharing
 what I’m building currently.
