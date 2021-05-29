@@ -1,10 +1,9 @@
 +++
 title = "My Life as a Programmer"
+date = 1997-01-01
 +++
 
-_This article first appeared on my site in 1997. I took it down when I redesigned
-the site sometime around 2001. In 2018, I decided I missed it, so I dug
-back in the archives and added it back. I've added a few updates in 2021._
+_This article first appeared on my site in early 1997. I remember seeing a printout of this page on somebody's desk when I first interviewed at Adobe early that year. I took it down when I redesigned the site sometime around 2001. In 2018, I decided I missed it, so I dug back in the archives and added it back. I've added a few updates in 2021._
 
 ## The Early Years
 
