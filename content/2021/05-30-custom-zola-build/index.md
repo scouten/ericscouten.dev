@@ -43,7 +43,7 @@ If you're up for a war story, here are the false starts:
 
 I started by trying to build the `next` branch as of [commit `22c29fe`](https://github.com/getzola/zola/commit/22c29fe936681b8cad141482dbfc001c43a7f82e), which is when my PR was merged. This failed in two different ways:
 
-* **Cross-compiling.** My current-ish (1.52.0) Rust toolchain failed to build the for the `x86_64-unknown-linux-gnu` target with this error:
+* **Cross-compiling.** My current-ish (1.52.0) Rust toolchain failed to build the `x86_64-unknown-linux-gnu` target with this error:
 
 ```
 error: failed to run custom build command for `ring v0.16.19`
