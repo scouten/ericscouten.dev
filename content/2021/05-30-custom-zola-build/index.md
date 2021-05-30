@@ -17,7 +17,7 @@ The bug (a race condition) often rendered my intended site structure with missin
 
 **Bad news:** The fix was [not likely to appear in a released version for some time to come](https://zola.discourse.group/t/next-release-schedule/908).
 
-As mentioned in the forum thread, not having access to this bug fix was going to cause me some heartache. Vincent was kind enough in some follow-up discussion to suggest a workaround: I could [publish on Netlify with a custom build of Zola](https://zola.discourse.group/t/next-release-schedule/908/4).
+As mentioned in the forum thread, not having access to this bug fix was going to cause me some heartache. Vincent was kind enough in follow-up discussion to suggest a workaround: I could [publish on Netlify with a custom build of Zola](https://zola.discourse.group/t/next-release-schedule/908/4).
 
 This is what I'm doing, both on this site and on several others that I am either building or have recently deployed.
 
