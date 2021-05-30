@@ -17,13 +17,13 @@ The bug (a race condition) often rendered my intended site structure with missin
 
 **Bad news:** The fix was [not likely to appear in a released version for some time to come](https://zola.discourse.group/t/next-release-schedule/908).
 
-As mentioned in the forum thread, not having access to this bug fix wax going to cause me some heartache. Vincent was kind enough in some follow-up discussion to suggest a workaround: I could [publish on Netlify with a custom build of Zola](https://zola.discourse.group/t/next-release-schedule/908/4).
+As mentioned in the forum thread, not having access to this bug fix was going to cause me some heartache. Vincent was kind enough in some follow-up discussion to suggest a workaround: I could [publish on Netlify with a custom build of Zola](https://zola.discourse.group/t/next-release-schedule/908/4).
 
 This is what I'm doing, both on this site and on several others that I am either building or have recently deployed.
 
 Constructing a build that ran locally was pretty easy; I backported [PR #1456](https://github.com/getzola/zola/pull/1456) onto the existing tagged 0.13.0 release of Zola. The end result is available on [my fork of Zola](https://github.com/scouten/zola/tree/custom) and is tagged in that fork as [release 0.13.0.es2](https://github.com/scouten/zola/releases/tag/v0.13.0.es2). As with anything open-source, you are welcome to use it directly or adapt it for your own purposes.
 
-Getting that build running on Netlify turned out not to be a particularly simple thing to do.
+**Getting that build running on Netlify turned out not to be a particularly simple thing to do.**
 
 I am sharing how I did this in hopes that it might make life easier for the next person who walks this path.
 
