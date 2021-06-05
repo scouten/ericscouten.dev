@@ -52,7 +52,7 @@ I've been doing most of my professional work in the [Rust](https://www.rust-lang
 
 Although the Zola project no longer directly links to it, I also found the [Bulma](https://bulma.io) CSS framework very valuable.
 
-So I first rebuilt 146 Parks using Zola and Bulma. The new version of the site launched a few weeks ago and I couldn't be happier with how it turne dout.
+So I first rebuilt 146 Parks using Zola and Bulma. The new version of the site launched a few weeks ago and I couldn't be happier with how it turned out.
 
 I then had the idea to start rebuilding the rest of my web presence. That project is ongoing, but you're reading one part of that project now.
 
