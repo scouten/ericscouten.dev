@@ -20,3 +20,7 @@ An article I want to write. Linkroll:
 > Bad software doesn't start with bad developers. It starts with good, decent people who make decisions that seem right on the day but in aggregate, considered over a longer lifetime, are indefensible.
 
 – [Reginald Braithwaite, Software's Receding Hairline](http://braythwayt.com/posterous/2011/09/09/softwares-receding-hairline.html)
+
+> As a programmer you read more code than you write. Keep it readable, commented, consistent and explicit.
+
+– [Sindre Sorhus](https://twitter.com/sindresorhus/status/572082142752186368), Twitter, 2015
