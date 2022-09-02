@@ -24,6 +24,8 @@ This is what I'm doing, both on this site and on several others that I am either
 
 Constructing a build that ran locally was pretty easy; I backported [PR #1456](https://github.com/getzola/zola/pull/1456) onto the existing tagged 0.13.0 release of Zola. The end result is available on [my fork of Zola](https://github.com/scouten/zola/tree/custom) and is tagged in that fork as [release 0.13.0.es2](https://github.com/scouten/zola/releases/tag/v0.13.0.es2). As with anything open-source, you are welcome to use it directly or adapt it for your own purposes.
 
+**2022 Update:** I'm doing the same thing again now to have early access to a [PR I submitted](https://github.com/getzola/zola/pull/1964) that lets me render some of my sites _much_ faster than the current release. You can find [my fork of Zola](https://github.com/scouten/zola/tree/get-term-fn-custom-build) here and the tagged release as [release 0.16.1.es1](https://github.com/scouten/zola/releases/tag/v0.16.1.es1).
+
 Getting that build running on Netlify turned out not to be a particularly simple thing to do.
 
 I am sharing how I did this in hopes that it might make life easier for the next person who walks this path.
@@ -31,6 +33,8 @@ I am sharing how I did this in hopes that it might make life easier for the next
 ## The Machines in Question
 
 My personal development environment is an Intel-based Mac laptop that I haven't (yet) updated to Big Sur.
+
+**2022 Update:** I'm doing the same thing again and now have an M1-based Mac laptop.
 
 Netlify runs Zola (or whatever SSG you are using) in a [custom build image](https://www.netlify.com/blog/2019/03/14/a-more-flexible-build-architecture-with-updated-linux/) that is based on Ubuntu 16.04. Netlify comes prepared to install and run recent released versions of Zola (up to the now-current 0.13.0) via their [`binrc`](https://github.com/netlify/binrc) tool.
 
@@ -135,11 +139,25 @@ This Dockerfile differs from the one in 0.13.0 as follows:
 
 As of this writing, I don't plan to submit this branch as a PR to Zola because the bug fix PR has already been accepted for the next major version of Zola and the Dockerfile changes serve a different purpose than the original Docker image. (Mine isn't a deployment container, but rather a build vehicle.)
 
+**2022 Update:** Run the following set of commands to generate the Zola build that you will reference later:
+
+```sh
+$ docker build --platform linux/amd64 .
+$ export container_id=$(docker create --platform linux/amd64 image_id)  # substitute image_id from docker build
+$ docker cp $container_id:/release/zola.tar.gz zola.tar.gz
+```
+
+The `--platform linux/amd64` tags are necessary if, like me, you are running on an ARM (in my case, Apple M1) host; this will cause Docker to run the container in x86 emulation mode rather than an ARM version of Linux. You can remove those flags if running on a native Intel host.
+
+You should now have a `.tar.gz` file in your local host that you can post to whatever public URL you wish to use.
+
 ### Change Netlify Build Image
 
 In the Netlify control panel for my site (**Site page > Site settings > Build & deploy > Continuous deployment > Build image selection > Edit settings**), I changed the choice of image to "Ubuntu Focal 20.04."
 
 ![Build image selection](./build-image-selection.png)
+
+**2022 Update:** Ubuntu 20.04 is now the default for new Netlify sites, so this step may no longer be necessary.
 
 ### Change `netlify.toml`
 
