@@ -176,7 +176,3 @@ command = "curl -sL https://github.com/scouten/zola/releases/download/v0.13.0.es
 ```
 
 What's important here are the `build.command` and `context.deploy-preview.command` entries, which download the custom build, extract it from the tarball, and then use it to render the site content. (I've chosen to host the custom build as a GitHub release, but it appears you could use any publicly-accessible location that is convenient to you.)
-
-## Feedback
-
-I hope this helps. I choose not to have comments here, but if you want to respond or suggest edits, I'll watch the corresponding ~~post on the Zola forum~~ (link to be added soon) for feedback.
