@@ -17,4 +17,6 @@ highlight_code = true
 smart_punctuation = true
 
 [extra]
+endmark = true
 es_site = "dev"
+
