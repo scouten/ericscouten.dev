@@ -4,7 +4,7 @@ date = 2021-05-30
 aliases = ["2021/05-30-custom-zola-build"]
 
 [extra]
-comments = false
+comments = true
 +++
 
 I've recently started to enjoy building web sites using [Zola](https://getzola.org), a Rust-based static site generator. I'll write more about my decision to use Zola in a future "how I built this" article, but for now I wanted to share with the Zola community some tips on using custom builds of Zola.
