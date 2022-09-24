@@ -4,7 +4,6 @@ date = 2021-06-05
 
 [extra]
 cover = "146-parks-on-zola"
-comments = true
 +++
 
 Since last fall, I have been working on a project to visit, photograph, and document each of the [146 state parks](https://146parks.blog) in my home state of Washington in the U.S. Normally _this_ site will be devoted to my life as a developer, but today I will incorporate the outdoor-explorer and photographer parts of my life. This is an article about how I built the blog for the 146 Parks project.
