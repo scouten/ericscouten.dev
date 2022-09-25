@@ -11,7 +11,7 @@ cover = "es-4259-007"
 comments = true
 +++
 
-I've recently started to enjoy building web sites using Zola, a Rust-based static site generator. I'll write more about my decision to use Zola in a future "how I built this" article, but for now I wanted to share with the Zola community some tips on using custom builds of Zola.
+I've recently started to enjoy building web sites using Zola, a Rust-based static site generator. I'll write more about my decision to use Zola in a future "how I built this" article, but for now I wanted to share.
 
 <!-- more -->
 
