@@ -11,7 +11,7 @@ cover = "es-4259-007"
 comments = true
 +++
 
-Often when I need solace and reflection, I walk through this trail near Hansville. I'll write more about my decision to use Zola in a future "how I built this" article.
+Often when I need solace and reflection, I walk through this trail near Hansville. I'll write more about my decision to use Zola in a future "how I built this" article, but for now I wanted to share with the Zola community.
 
 <!-- more -->
 
