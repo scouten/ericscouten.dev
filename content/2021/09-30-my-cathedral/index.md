@@ -11,7 +11,7 @@ cover = "es-4259-007"
 comments = true
 +++
 
-I've recently started to enjoy building web sites using Zola, a Rust-based static site generator. I'll write more about my decision to use Zola in a future "how I built this" article, but for now I wanted to share.
+Often when I need solace and reflection, I walk through this trail near Hansville. I call it my "cathedral" because the trees remind me what it is to be grounded and steady in the face of whatever storms might be facing me at the moment.
 
 <!-- more -->
 
