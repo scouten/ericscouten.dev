@@ -11,5 +11,3 @@ This my home for occasional technical / programming related content. I plan to m
 I am also [a photographer](https://ericscouten.com) and [an outdoor explorer](https://146parks.blog).
 
 I hope you enjoy following this or another of my blogs!
-
-**New (November 2022)**: I'm experimenting -- like everyone else -- with Mastodon: Follow me at <a rel="me" href="https://ericscouten.social/@scouten">@scouten@ericscouten.social</a>.
