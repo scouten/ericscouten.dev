@@ -61,7 +61,7 @@ And, of course, I did build a few new pieces.
 
 ### The Core: Zola
 
-Almost all of my web presences these days are built using [Zola](https://www.getzola.org), a super-fast [static-site generator](https://jamstack.org/generators/) built in the [Rust](https://www.rust-lang.org) programming language. The only current exception is my primary site, [ericscouten.com](https://ericscouten.com), and I have plans for a Zola-based makeover soon.
+Almost all of my web presences these days (including this one) are built using [Zola](https://www.getzola.org), a super-fast [static-site generator](https://jamstack.org/generators/) built in the [Rust](https://www.rust-lang.org) programming language. The only current exception is my primary site, [ericscouten.com](https://ericscouten.com), and I have plans for a Zola-based makeover soon.
 
 Zola neatly satisfies most of the design goals I listed above and I built the core of the site using Zola several months ago using templates that I had built for my other sites, including this one. I use [Netlify](https://www.netlify.com) to automatically deploy and build my site, but could pretty quickly move elsewhere if the platform stops working for whatever reason.
 
@@ -81,7 +81,7 @@ I'd e-mail myself a copy of the link when I found it and then circle back later,
 
 What happened was that _manually_ part began to feel tedious. _Really_ tedious.
 
-By the time I circled back to the posts a couple of days ago, I had more than 100 such message and there was **no way** I was going to do this manually.
+By the time I circled back to the posts a couple of days ago, I had more than 100 such messages and there was **no way** I was going to do this manually.
 
 ### The Solution: Automate It!
 
@@ -93,6 +93,16 @@ A couple of quick notes about this tool:
 
 * I'm a huge fan of the [Rust](https://rust-lang.org) programming language, so the tool is written in Rust.
 * Though licensed under a permissive open-source (MIT) license, this is really "inspire-ware." I do not plan to invest the effort to make this into a larger general-purpose tool. [More details here](https://github.com/scouten/tmbu-worker#status-of-this-project).
+
+This tool wouldn't have been possible without the following open-source crates:
+
+* [imap](https://crates.io/crates/imap)
+* [regex](https://crates.io/crates/regex)
+* [reqwest](https://crates.io/crates/reqwest)
+* [serde](https://crates.io/crates/serde)
+* [titlecase](https://crates.io/crates/titlecase)
+
+Thank you to the authors of these crates!
 
 ## Bottom Line
 
