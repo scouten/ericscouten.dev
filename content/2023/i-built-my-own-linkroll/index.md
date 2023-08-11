@@ -11,7 +11,11 @@ So I built my own linkroll.
 
 <!-- more -->
 
-**tl;dr:** If you're just interested in the linkroll, you can find it at [This Might Be Useful](https://tmbu.ericscouten.com), which I often abbreviate as TMBU. Things you'll find there:
+**tl;dr:** If you're just interested in the linkroll, you can find it at ~~This Might Be Useful~~, which I often abbreviate as TMBU.
+
+**August 2023 Update:** I've since renamed TMBU to [ericscouten.link](https://ericscouten.link). I've updated the links accordingly, but the name lives on in some related code as you'll see below.
+
+Things you'll find there:
 
 * lots of developer-related things (especially related to the Rust language)
 * some photography things
@@ -21,6 +25,7 @@ So I built my own linkroll.
 Yes, I know there are linkroll solutions out there. I've even used a couple of them over time (notably Digg, once upon a time).
 
 Call me an old curmudgeon, but I'm increasingly of the opinion that I want to own my own content and not have my online presence be subject to anyone else's business whims, which is why my links are self-hosted and not on anyone else's platform.
+
 
 ## Design Goals
 
@@ -40,7 +45,7 @@ A lot of my content these days comes from a [well-curated list of follows on Mas
 
 1. Not *everything* I'm interested in comes from Mastodon.
 2. The overlap between what I boost on Mastodon and what I might want to find later is incomplete in both directions.
-3. The Mastodon culture is [notoriously hostile to search efforts](https://searchtodon.social/Adventures-in-Mastoland.htmla).
+3. The Mastodon culture is [notoriously hostile to search efforts](https://searchtodon.social/Adventures-in-Mastoland.html).
 
 So I built my own linkroll.
 
@@ -67,7 +72,7 @@ Zola neatly satisfies most of the design goals I listed above and I built the co
 
 ### Ruh Roh: I Stalled Out!
 
-The source code for the site is available on [GitHub @ scouten/tmbu.ericscouten.com](https://github.com/scouten/tmbu.ericscouten.com/). If you look at the commit history, you'll see a big burst of energy from when I started the site in mid-February until early March.
+The source code for the site is available on [GitHub @ scouten/ericscouten.link](https://github.com/scouten/ericscouten.link/). If you look at the commit history, you'll see a big burst of energy from when I started the site in mid-February until early March.
 
 And … then … nothing.
 
