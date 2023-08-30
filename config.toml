@@ -22,3 +22,5 @@ smart_punctuation = true
 [extra]
 endmark = true
 es_site = "dev"
+fathom_site_id = "WVFRLLAB"
+plausible_site_id = "ericscouten.dev"
