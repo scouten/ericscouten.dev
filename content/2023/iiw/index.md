@@ -7,7 +7,7 @@ This week I'm attending the 37th biannual **[Internet Identity Workshop](https:/
 
 <!-- more -->
 
-This work is closely related to my work for [Adobe](https://adobe.com) in which I help define and implement the **[Content Authencity Initiative](https://contentauthenticity.org).** CAI defines itself as:
+In my work at [Adobe](https://adobe.com) I help define and implement the **[Content Authencity Initiative](https://contentauthenticity.org).** CAI defines itself as:
 
 > ... a community of media and tech companies, NGOs, academics, and others working to promote adoption of an open industry standard for content authenticity and provenance. 
 
