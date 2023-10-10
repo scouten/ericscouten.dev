@@ -44,3 +44,7 @@ And, with that, here is my description of the sessions I'm attending this time a
 ## Sessions I've Attended
 
 _(these will come once the conference starts)_
+
+## Resources I've Learned About
+
+* [KERISSE.org](https://kerisse.org): A search engine specifically for KERI topics
