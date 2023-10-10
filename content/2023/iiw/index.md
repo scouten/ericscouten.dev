@@ -108,7 +108,9 @@ As mentioned in the intro, IIW almost always presents difficult choices about wh
 
 ## Session 2M: Answers to "The Four Horsement of SSI"
 
-_Timothy Ruff_
+_Timothy Ruff, GP, Digital Trust Ventures_
+
+{{ es_image(id = "es-4581-003") }}
 
 Timothy starts by replaying [_The Four Horsement of SSI_ from Identiverse 2023](https://pages.scmagazine.com/rs/188-UNZ-660/images/Identiverse%202023%20-%20The%20Four%20Horsemen%20of%20the%20SSI%20Apocalypse%20-%205.31.pdf) by Jeremy Grant.
 
