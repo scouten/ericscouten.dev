@@ -99,6 +99,10 @@ Telecomm businesses approaching Provenant and other QVIs to prove authority to c
 
 Example: If you are running a text messaging campaign, your organization has to be vetted for authority and quality of message. Important in this case to know who are the _people_ that are going to be asking for privileges to execute that campaign. This gets increasingly interesting as tasks such as this get delegated _across companies._ (Consider a major brand hiring a third company to execute the text messaging campaign on their behalf. How does the telco know whether to accept those messages as accurately representing the original brand?)
 
+### Slides
+
+* **[Karla McKenna: verifiable LEI (vLEI) Update](https://github.com/WebOfTrust/IIW37/blob/main/2023-10-10_vLEI-Update-IIW37-October_v1.0_final.pdf)** (PDF)
+
 ### Competing Sessions
 
 As mentioned in the intro, IIW almost always presents difficult choices about which sessions to attend. I look forward to reading the notes from these sessions which competed with this one:
