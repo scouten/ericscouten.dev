@@ -174,6 +174,37 @@ This is actually valid. Defaults win.
 
 * 2L: DIDComm 101 & Q/A
 
+## Lunch
+
+The meals at IIW are surprisingly good for conference food.
+
+{{ es_image(id = "es-4582-001", caption = "Buffet line.") }}
+
+## Session 3A: OpenWallet Foundation 
+
+* Tracy Kuhrt, TAC chair, OWF
+* Daniel Bachenheimer, Unique Identity Services Global Lead, Accenture
+* Kaliya Young, consultant to OWF
+* Lucy Yang, consultant to OWF
+
+{{ es_image(id = "es-4582-003") }}
+
+Wallets are critically important.
+
+Speaker was in China recently and couldn't pay for food without Chinese wallet app.
+
+OWF is _not_ about creating standards. Building upon standards built by Open ID Foundation, FIDO, etc.
+
+OWF advocates for open-source software to build wallets for cost, time, and security, and interoperability reasons.
+
+In April, OWF had 26 corporate members and no code. Today, 52 members including Google and Microsoft. Now have a lot of code.
+
+OWF seeking members to join technical community. Slides will be made public.
+
+Google proposing to contribute Android Identity Library to OWF.
+
+Agenda shifted to what can you contribute to OWF, which isn't particularly relevant for me. I departed at this point.
+
 ## More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions)_
