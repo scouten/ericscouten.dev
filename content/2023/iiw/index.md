@@ -162,6 +162,10 @@ You don't.
 
 This is actually valid. Defaults win.
 
+### Slides
+
+* **[Timothy Ruff: Answers to ... "The Four Horsemen of the SSI Apocalypse"](./02m-truff-answers-to-four-horsemen.pdf)** (PDF)
+
 ### Competing Sessions
 
 * 2L: DIDComm 101 & Q/A
