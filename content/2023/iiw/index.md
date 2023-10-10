@@ -47,7 +47,7 @@ Last time (in April), I managed to schedule a weekend to myself [disappearing on
 
 And, with that, here is my description of the sessions I'm attending this time around:
 
-## Session 1L: vLEI updates _(check title)_
+## Session 1L: vLEI Developments and Updates
 
 _Karla McKenna, Head of Standards and Managing Director of [GLEIF Americas](https://www.gleif.org/en)_
 
