@@ -93,7 +93,7 @@ GLEIF looking at vLEI as a method for enhancing adoption of LEI. Private sector 
 
 ### Messaging Shift: Embracing Organizational Identity
 
-Changing the narrative to "organizational identity." Moving from technical capabilities to creating verifiable proof that Person X is a legal representative of Organization Y. _(Add link to Tim's article.)_
+Changing the narrative to "organizational identity." Moving from technical capabilities to creating verifiable proof that Person X is a legal representative of Organization Y. Timothy Ruff wrote about this earlier this year: **[The Dawn of Organizational Identity, Part 1: Identifiers](https://rufftimo.medium.com/the-dawn-of-decentralized-organizational-identity-part-1-identifiers-ffb9091fd47a)** and **[The Dawn of Organizational Identity, Part 2: Credentials](https://rufftimo.medium.com/the-dawn-of-decentralized-organizational-identity-part-2-organizational-credentials-d8baf5fd9114)**.
 
 Telecomm businesses approaching Provenant and other QVIs to prove authority to communicate on behalf of organization.
 
