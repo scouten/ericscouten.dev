@@ -106,6 +106,64 @@ As mentioned in the intro, IIW almost always presents difficult choices about wh
 * 1D: If DID is so great, why don't I have one yet?
 * 1I: Linked Claims: Binding credentials together with cryptographic hashlinks. Giving structure to Verifiable Credential sets
 
+## Session 2M: Answers to "The Four Horsement of SSI"
+
+_Timothy Ruff_
+
+Timothy starts by replaying [_The Four Horsement of SSI_ from Identiverse 2023](https://pages.scmagazine.com/rs/188-UNZ-660/images/Identiverse%202023%20-%20The%20Four%20Horsemen%20of%20the%20SSI%20Apocalypse%20-%205.31.pdf) by Jeremy Grant.
+
+The key points of Grant's presentation:
+
+1. Key management sucks
+2. What are the validated attributes?
+3. Privacy is oversold
+4. Why do I need a coin?
+5. (bonus) Choice!
+
+Let's not build identity for the 1%.
+
+### Timothy's Refutation of Point 1: Key management sucks
+
+Question: How many of you use a password manager? (Most hands went up.)
+
+Password management _onboarding_ is awful. Once you're there, there's no going back!
+
+Hmmm ... managing passwords is much like managing keys. Once you turn it over to trusted software, password vs key is not that different. You can manage thousands of keys this way.
+
+### Timothy's Refutation of Point 2: Where are the validated attributes?
+
+Ummm ... there **are** authoritative sources participating in SSI space. _(Looks around room ...)_
+
+### Timothy's Refutation of Point 3: Privacy is oversold
+
+Timothy sort of agrees with this but shifts the thinking here.
+
+Once you've shared information, it's shared. There's no unsharing.
+
+There are lots of unintentional and non-consensual data leaks (face-recognizing cameras, using credit cards for purchases, etc.).
+
+Huh. Interesting take: Stop trying to _conceal_ data. Stop worrying about PII. Corraling data back is a lost cause. It's too easy to re-identify data sets that have supposedly been anonymized by correlated with other data.
+
+Legal mechanism for preventing info sharing of this sort is a non-disclosure agreement. Those are very heavyweight.
+
+What if ... NDAs were streamlined, digital, and digitally signed _before_ data was disclosed?
+
+Now we're enforcing limited data sharing by legal terms, not technical. Something like this is built into KERI stack via ACDCs.
+
+Timothy: "Privacy is dead. Long live confidentiality."
+
+### Timothy's Refutation of Point 4: Why do I need a coin?
+
+You don't.
+
+### Timothy's Refutation of Point 5: (bonus) Choice!
+
+This is actually valid. Defaults win.
+
+### Competing Sessions
+
+* 2L: DIDComm 101 & Q/A
+
 ## More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions)_
