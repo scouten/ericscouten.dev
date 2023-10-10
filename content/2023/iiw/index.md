@@ -19,7 +19,11 @@ IIW is held at the lovely **[Computer History Museum](https://computerhistory.or
 
 I'll share a few photos of the venue and the conference. My non-technical friends might want to bow out after this section as it will rapidly descend into lots of deep geek speak.
 
-_(to do: add photos of CHM)_
+{{ es_image(id = "es-4579-003") }}
+
+{{ es_image(id = "es-4579-005") }}
+
+{{ es_image(id = "es-4579-007") }}
 
 ## The Format
 
@@ -27,7 +31,9 @@ IIW is conducted as an **"[unconference](https://en.wikipedia.org/wiki/Unconfere
 
 There are several variations on how the agenda gets built at an unconference. In IIW's case, there is an opening meeting on each morning in which people stand up and describe sessions they'd like to lead that day. Then there's a mad rush to schedule these sessions (see photo below) and we all choose, in the moment, which sessions to attend.
 
-_(include photo of the schedule board)_
+{{ es_image(id = "es-4579-010") }}
+
+{{ es_image(id = "es-4579-011") }}
 
 You might think that not having a predefined agenda would mean that the topics that occur could be flimsy or weak or low in value. In practice, the opposite is true. Both times I've attended this conference so far, I've had to make very difficult choices about which sessions _not_ to attend so I could attend something else which was _also_ very compelling.
 
