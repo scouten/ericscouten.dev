@@ -108,7 +108,7 @@ As mentioned in the intro, IIW almost always presents difficult choices about wh
 
 ## More Sessions to Follow ...
 
-_(I'll continue to add notes as I attend more session)_
+_(I'll continue to add notes as I attend more sessions)_
 
 ## Resources I've Learned About
 
