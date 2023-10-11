@@ -318,6 +318,33 @@ Those trust tasks (layer 3 of the ToIP stack) enable an infinite set of applicat
 
 {{ es_image(id = "es-4586-002") }}
 
+# Wednesday Sessions
+
+## Session 6C: People Don't Want a Digital Identity; They Want ...
+
+{{ es_image(id = "es-4587-006") }}
+
+Open discussion led by Adrian Gropper (the volunteer CTO of the non-profit Patient Privacy Rights Foundation). What do people want instead of digital identity?
+
+* address (email, phone, etc. -- how can we improve on that?)
+* reputation
+* credential (vaccination card, drivers license, proof of age)
+* anonymity (activists, citizen journalists)
+* freedom of association and assembly
+* to be left alone
+* user experience / digital convenience
+
+Representative from [Guardian Project](https://guardianproject.info): How do you have continuity and yet anonymity?
+
+Usability and perceived security risk again is a topic.
+
+California's digital ID is dual-format (mDL and VC). Proof of age via VC. Look at TruAge, about to be integrated with point-of-sale systems, supported by age-restricted goods industries.
+
+### Competing Sessions
+
+* 6F: GLEIF's Experience with the vLEI. Ecosystem Governance Framework: Lessons Learned _(seems similar to [yesterday's GLEIF session](https://ericscouten.dev/2023/iiw/#session-1l-vlei-developments-and-updates))
+* 6K: Dying with Dignity: A consent-driven dead man's switch for online services
+
 # More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions.)_
