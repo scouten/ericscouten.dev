@@ -205,9 +205,45 @@ Google proposing to contribute Android Identity Library to OWF.
 
 Agenda shifted to what can you contribute to OWF, which isn't particularly relevant for me. I departed at this point.
 
+## Session 4E: How Are You Solving for the UX Challenges of SSI?
+
+Open discussion about UX challenges in SSI.
+
+{{ es_image(id = "es-4583-004") }}
+
+Issues raised:
+
+* Onboarding and education
+* Balance between security and ease of use
+
+Moderator Q: Who has solved a serious UX challenge already? 
+
+One answer: "If you get the UX right for a new technology, it will not be adopted." Hmmm.
+
+Sukhi Chuhan (Senior UX Designer at Ontario government): Expectation is that VCs for end users needs to be about ease of use. Make it more and more like what you can do with physical IDs.
+
+If you're creating a new digital wallet product, you are competing with free and built-in from Apple and Google.
+
+Terminology has a big impact. Example: "biometric authentication" scares users, but "Touch ID" and "Face ID" don't.
+
+Remember accessibility. For example, people with impaired vision can't really use QR codes. Also, some people with disabilities and also children may have caregivers or guardians who need to be able to act on their behalf.
+
+Most users will pick utility over sovereignty any day.
+
+Some resistance to using platform-provided wallets due to perception of security concerns and hackability.
+
+Audience Q: How do you present VCs in a way that's digestible?
+
+BC wallet specifically avoids showing information on screen. They want to force the info to be transmitted digitally and displayed on the _verifier's_ device, not the holder's device. On-screen display is easily faked by the credential holder.
+
+### Competing Sessions
+
+* 4C: Credential vs wallet selection
+* 4F: SOLID
+
 ## More Sessions to Follow ...
 
-_(I'll continue to add notes as I attend more sessions)_
+_(I'll continue to add notes as I attend more sessions.)_
 
 ## Resources I've Learned About
 
