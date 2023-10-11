@@ -1,11 +1,16 @@
 +++
 title = "Internet Identity Workshop 37"
 date = 2023-10-10
+
+[extra]
+toc = true
 +++
 
 This week I'm attending the 37th biannual **[Internet Identity Workshop](https://internetidentityworkshop.com)**, in which a few dozen of the world's leading experts on digital identity and credentials gather and a couple hundred more of us do our best to keep up and learn from them.
 
 <!-- more -->
+
+# Why I'm Here
 
 In my work at [Adobe](https://adobe.com) I help define and implement the **[Content Authencity Initiative](https://contentauthenticity.org).** CAI defines itself as:
 
@@ -13,7 +18,7 @@ In my work at [Adobe](https://adobe.com) I help define and implement the **[Cont
 
 We are particularly interested enabling content creators to identify themselves as the creators of their content and credibly refute false claims of authorship on their behalf, which is why I am attending this conference for the third time. This is my first time attempting to describe it in real time as the conference proceeds.
 
-## The Venue
+# The Venue
 
 IIW is held at the lovely **[Computer History Museum](https://computerhistory.org/)**, which recounts the formative years of our tech industry. CHM is located in Mountain View, California, right in the heart of Silicon Valley.
 
@@ -25,7 +30,7 @@ I'll share a few photos of the venue and the conference. My non-technical friend
 
 {{ es_image(id = "es-4579-007") }}
 
-## The Format
+# The Format
 
 IIW is conducted as an **"[unconference](https://en.wikipedia.org/wiki/Unconference),"** which means that there is a pre-defined _structure_ to the conference, but not a predefined _agenda._
 
@@ -46,6 +51,8 @@ You might think that not having a predefined agenda would mean that the topics t
 Last time (in April), I managed to schedule a weekend to myself [disappearing on the Mendocino coast](https://ericscouten.travel/2023/04-18+california/35-36-on-california-coast/) to decompress afterward. For those of us who are introverts, I highly recommend scheduling some kind of downtime like this afterward. (I talked to almost nobody for four days after IIW and it was _perfect._) This time, I'm headed home for some important family time, so no decompression buffer.
 
 And, with that, here is my description of the sessions I'm attending this time around:
+
+# Tuesday Sessions
 
 ## Session 1L: vLEI Developments and Updates
 
@@ -310,14 +317,14 @@ Those trust tasks (layer 3 of the ToIP stack) enable an infinite set of applicat
 
 {{ es_image(id = "es-4586-002") }}
 
-## More Sessions to Follow ...
+# More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions.)_
 
-## Conference Proceedings
+# Conference Proceedings
 
 Full proceedings from the conference are typically available a few weeks afterward. I'll add a link when that becomes available.
 
-## Resources I've Learned About
+# Resources I've Learned About
 
 * [KERISSE.org](https://kerisse.org): A search engine specifically for KERI topics
