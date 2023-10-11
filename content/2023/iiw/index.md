@@ -241,9 +241,82 @@ BC wallet specifically avoids showing information on screen. They want to force 
 * 4C: Credential vs wallet selection
 * 4F: SOLID
 
+## Session 5A: Trust Spanning Protocol for Muggles
+
+* Drummond Reed, Steering Committe member of the ToIP Foundation
+* Wenjing Chu, Steering Committee member of the ToIP Foundation
+* Sam Smith, Creator of KERI
+
+As is so often the case, this was one of the best-attended sessions at IIW.
+
+{{ es_image(id = "es-4584-004") }}
+
+{{ es_image(id = "es-4585-001") }}
+
+Recap of this blog post from ToIP: **[Mid-year Progress Report on the ToIP Trust Spanning Protocol](https://trustoverip.org/blog/2023/08/31/mid-year-progress-report-on-the-toip-trust-spanning-protocol/)**.
+
+Seven pillars of trust spanning protocol:
+
+### 1. Verifiable Identifiers
+
+Believe the trust layer for the Internet will require a new spanning layer, akin to IP for traffic itself. Requires a new form of address, which they call Verifiable Identifier. These are commonly DIDs, but not necessarily.
+
+VIDs can also incorporate centralized identifiers. For example, HTTPS address or X.509.
+
+A ToIP identifier _must_ be cryptographically bound to private keys and discoverable.
+
+### 2. End-to-end authenticity and confidentiality
+
+Talking about **[ESSR (Encrypt Sender’s key then Sign Receiver’s key) pattern](https://eprint.iacr.org/2001/079)**. That is a 50-page white paper; it's well summarized in this blog post by Neil Madden: **[Public key authenticated encryption and why you want it (Part II)](https://neilmadden.blog/2018/11/26/public-key-authenticated-encryption-and-why-you-want-it-part-ii/)**.
+
+ESSR allows you to build from zero trust to verifiably authentic with an option to add encryption.
+
+### 3. Direct connections (inner and outer channels)
+
+Remember that privacy has two aspects:
+
+If I trust you (by sending you data that you can decrypt), there's little I can do _technically_ to prevent you from misusing that data. Legal and contractual obligations are more relevant here.
+
+But ... we _can_ prevent third parties who don't have the right keys from spying on the data or even breaching "correlation privacy" which establishes a pattern of communication between two parties.
+
+Every ToIP connection provides at least _partial_ correlation privacy.
+
+### 4. Routing via intermediaries
+
+Using intermediaries allows full correlation privacy. From a protocol design standpoint, it requires one more level of nesting. But no further "onion" style routing is required.
+
+### 5. Relationship context channels
+
+Nested channels also allows you to create an unlimited number of communication _contexts_ between patterns.
+
+### 6. Serialization
+
+ToIP wound up choosing **[CESR](https://github.com/SmithSamuelM/Papers/blob/master/presentations/CESR_Overview.web.pdf)**.
+
+Basic idea was not to fight the protocol war between text and binary representations. CESR allows you to switch back and forth in composable and predictable fashion _without invalidating the signature._
+
+### 7. Trust task protocol framework
+
+All three of the VID-to-VID protocols (DIDComm, KERI, and DWN) include frameworks to support higher-level protocols designed to accomplish specific trust tasks.
+
+Examples of trust tasks are: 
+
+* discovery
+* error handling
+* trust ping
+* logging/auditing
+
+Those trust tasks (layer 3 of the ToIP stack) enable an infinite set of applications on top of that (layer 4 of the ToIP stack).
+
+{{ es_image(id = "es-4586-002") }}
+
 ## More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions.)_
+
+## Conference Proceedings
+
+Full proceedings from the conference are typically available a few weeks afterward. I'll add a link when that becomes available.
 
 ## Resources I've Learned About
 
