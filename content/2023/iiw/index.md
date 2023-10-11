@@ -342,7 +342,7 @@ California's digital ID is dual-format (mDL and VC). Proof of age via VC. Look a
 
 ### Competing Sessions
 
-* 6F: GLEIF's Experience with the vLEI. Ecosystem Governance Framework: Lessons Learned _(seems similar to [yesterday's GLEIF session](https://ericscouten.dev/2023/iiw/#session-1l-vlei-developments-and-updates))
+* 6F: GLEIF's Experience with the vLEI. Ecosystem Governance Framework: Lessons Learned _(seems similar to [yesterday's GLEIF session](https://ericscouten.dev/2023/iiw/#session-1l-vlei-developments-and-updates))_
 * 6K: Dying with Dignity: A consent-driven dead man's switch for online services
 
 # More Sessions to Follow ...
