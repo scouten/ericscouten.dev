@@ -3,6 +3,7 @@ title = "Internet Identity Workshop 37"
 date = 2023-10-10
 
 [extra]
+cover = "es-4579-005"
 toc = true
 +++
 
@@ -16,7 +17,7 @@ In my work at [Adobe](https://adobe.com) I help define and implement the **[Cont
 
 > ... a community of media and tech companies, NGOs, academics, and others working to promote adoption of an open industry standard for content authenticity and provenance. 
 
-We are particularly interested enabling content creators to identify themselves as the creators of their content and credibly refute false claims of authorship on their behalf, which is why I am attending this conference for the third time. This is my first time attempting to describe it in real time as the conference proceeds.
+We are particularly interested in enabling content creators to identify themselves as the creators of their content and credibly refute false claims of authorship on their behalf, which is why I am attending this conference for the third time. This is my first time attempting to describe it in real time as the conference proceeds.
 
 # The Venue
 
