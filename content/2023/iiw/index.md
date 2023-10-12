@@ -386,6 +386,30 @@ IPEX (VC issuance and presentation exchanges). Exchanging of chained credentails
 * 9G: Should governments be involved in VC system?
 * 9M: IEEE 7012, Personal terms and conditions
 
+## Session 10C: Fitting credentials that are verifiable into NIST's digital identity guidelines
+
+* Justin Richer, independent identity consultant
+
+I came in late. Justin was giving some background explanation of [NIST SP 800-63-4 "Digital Identity Guidelines,"](https://csrc.nist.gov/pubs/sp/800/63/4/ipd) which is currently in "initial public draft" stage.
+
+{{ es_image(id = "es-4591-006") }}
+
+He was explaining subject -> CSP (Credential Service Provider) -> IDP (ID Provider) -> relying party interaction in NIST terms.
+
+"IDP is played by the wallet. This is where things start to go funny."
+
+NIST uses different terminology from SSI/VC community. Approximate translations of a few common terms:
+
+* (NIST) Subject -> (SSI) Holder
+* (NIST) CSP -> (SSI) Issuer
+* (NIST) IDP -> (SSI) Wallet
+* (NIST) RP -> (SSI) Verifier
+* (NIST) Assertion -> (SSI) Presentation
+
+I'm a bit out of my element here because my work doesn't particularly overlap with NIST (or at least hasn't so far), so it's mostly interesting to see how things map from one world to another.
+
+
+
 # More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions.)_
