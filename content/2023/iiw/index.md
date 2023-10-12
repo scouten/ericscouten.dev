@@ -464,6 +464,14 @@ Audience Q: Is this a US problem or a worldwide problem? Audience answer: Same i
 
 _(I'll continue to add notes as I attend more sessions.)_
 
+# Important Learning: Verifiable Identifiers
+
+Just a week or so ago, I first heard the term "**verifiable identifier**" when Drummond Reed appeared on [episode #60 - Trust Spanning Protocol: Seven Key Pillars](https://overcast.fm/+pswpLY518) of Matthieu Glaude's excellent [_SSI Orbit_ podcast](https://northernblock.io/podcasts/).
+
+This is described in the **[ToIP Technology Architecture Specification](https://github.com/trustoverip/TechArch/blob/main/spec.md#trust-over-ip-toip-technology-architecture-specification)** in section 6.4 titled **[ToIP Identifiers](https://github.com/trustoverip/TechArch/blob/main/spec.md#trust-over-ip-toip-technology-architecture-specification)**. I'm happy to hear that ToIP is recognizing that there's value in identifiers that can be independently verifiable, regardless of how they are issued (i.e. in a decentralized or centralized fashion).
+
+It looks like this is currently a _conceptual unification_ between DIDs and centralized identifiers (X.509 and similar) and not yet a _technical spec_ that describes a protocol format that allows you to express "DID or X.509 or ..." but that this is an area of active interest from ToIP.
+
 # Conference Proceedings
 
 Full proceedings from the conference are typically available a few weeks afterward. I'll add a link when that becomes available.
