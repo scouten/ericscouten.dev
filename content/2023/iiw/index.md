@@ -460,6 +460,19 @@ Audience Q: Is this a US problem or a worldwide problem? Audience answer: Same i
 * 11A: Stitching together a wallet: What's there, what's missing
 * 11G: Bubbles? Federation in disadvantaged and disconnected environments
 
+## Session 13C: What does Presentation Exchange do and what parts of it do we actually need?
+
+* Mike Jones, independent consultant in digital identity, security, and interoperability
+
+Presentation Exchange can do a lot of different things.
+
+* OpenID for VPs
+* High Assurance 
+
+Starts by summarizing content posted at [What does Presentation Exchange do and what parts of it do we actually need?](https://self-issued.info/?p=2395) on Mike's blog, [Mike Jones: self-issued](https://self-issued.info/).
+
+Much active discussion about combining credentials issued from different sources (e.g. university degree + drivers license + professional license).
+
 # More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions.)_
