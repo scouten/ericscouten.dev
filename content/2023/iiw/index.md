@@ -345,6 +345,47 @@ California's digital ID is dual-format (mDL and VC). Proof of age via VC. Look a
 * 6F: GLEIF's Experience with the vLEI. Ecosystem Governance Framework: Lessons Learned _(seems similar to [yesterday's GLEIF session](https://ericscouten.dev/2023/iiw/#session-1l-vlei-developments-and-updates))_
 * 6K: Dying with Dignity: A consent-driven dead man's switch for online services
 
+## Demos
+
+* Provenant: automated process for vLEI issuance
+
+## Session 9H: Secure Organizational Identity
+
+* Lance Byrd, software developer, GLEIF
+* Alex Andrei, GLEIF
+* Rodolfo Miranda, GLEIF
+
+Organizational identity is nuanced and complex. Contractors, employees, vendors ... all of these relationships require verification, trust, audit trails.
+
+Many organizational identity considerations:
+
+{{ es_image(id = "es-4589-001") }}
+
+Organizations have a high stake in their identity. Can not trade-off security with anything else.
+
+Lifetime of identifiers is critical.
+
+**NEW:** Securing keys at the edge (KATE). HSMs and/or local biometrics control access to keys. Using multi-sig gives you ability to recover access to personal AID.
+
+New "signify" codebase helps with signing at the edge. Key event generation and signing, among other tasks.
+
+{{ es_image(id = "es-4590-001") }}
+
+{{ es_image(id = "es-4590-004") }}
+
+Audience Q: How much do witnesses cost? How do you find them?
+
+A: Early days. Right now it's the early adopters. Expect this to be commoditized. "We anticipate that there will be witness services." Those are likely to be free for low/normal volume situations. If signing millions per month, then cost may need to be passed along.
+
+ACDC means that vLEI credentials are chainable, end verifiable, attestable organizational credentials. Chainable means orgs can issue credentails for anyone from C-suite to individual employees.
+
+IPEX (VC issuance and presentation exchanges). Exchanging of chained credentails facilitates legally-binding agreements and contractually-protected disclosures.
+
+### Competing Sessions
+
+* 9G: Should governments be involved in VC system?
+* 9M: IEEE 7012, Personal terms and conditions
+
 # More Sessions to Follow ...
 
 _(I'll continue to add notes as I attend more sessions.)_
