@@ -408,7 +408,57 @@ NIST uses different terminology from SSI/VC community. Approximate translations 
 
 I'm a bit out of my element here because my work doesn't particularly overlap with NIST (or at least hasn't so far), so it's mostly interesting to see how things map from one world to another.
 
+# Thursday Sessions
 
+{{ es_image(id = "es-4592-007", caption = "Taking photos of the schedule board before the first session of the morning.") }}
+
+## Session 11B: Selective Disclosure is Useless: We Have Receipts
+
+* Timothy Ruff
+* Sam Smith
+
+{{ es_image(id = "es-4592-008") }}
+
+Define **ephemeral privacy:** Privacy "exists" but is easily undone because "de-anonymized" data is easily re-correlated.
+
+It's effectively trivial to re-identity individuals from de-anonymized data sets.
+
+Define **privacy washing:** De-anonymize data to the point where it can legally be re-shared. But ... there are holes. You may have intentionally or unintentionally left hooks for yourself or others to re-correlate and re-identity individuals in that data set.
+
+Timothy argues that ZKPs and AnonCreds (which his team helped develop) are no longer useful. So easily defeated as to be not worth the effort.
+
+"We aren't saying privacy is dead. We believe the future is confidentiality ..." using legal tools rather than technical tools.
+
+Privacy through obscurity is no longer worth it.
+
+New focus: Make legally-binding personal terms and conditions easily exchanged.
+
+Joyce Searls points toward [IEEE standard P7012](https://standards.ieee.org/ieee/7012/7192/) which is a way that individuals can exchange terms. Timothy: "It is exactly that." ACDCs enable that technically.
+
+Sam Smith: "People are falsely believing that they have a false sense of security with selective disclosure." This is no longer true.
+
+Description of how little info it takes to re-identify data.
+
+Privacy washing exists because the legal frameworks are years behind the technology.
+
+FTC issued a report last year that says k-anonymity is no longer sufficient for privacy. Example given of how cell-phone location data can be used for re-identification. Another example: social graphs could be reconstructed via the so-called anonymous identifiers in Covid contact tracing apps we had a year or two ago.
+
+Anyone sophisticated enough to verify a ZKP is almost certainly sophisticated enough to perform a re-identification attack.
+
+### Proposed Solution
+
+ACDCs have the ability to support contractually-protected disclosure. This is the technical part that enables a quick and frictionless agreement of terms. The mechanics are there to do this. Now need policy that follows that.
+
+Daniel Hardman isn't present, but it sounds like his work in the earlier-mentioned IEEE standard builds upon this.
+
+Timothy Ruff: "Timing is everything. I think there is a hunger for privacy like the world has never seen. So our timing is good to introduce these things to the world." And tech is converging around this.
+
+Audience Q: Is this a US problem or a worldwide problem? Audience answer: Same issue (resale and re-correlation of private data) exists worldwide, only varying by degree country to country and even state to state within the US (e.g. CCPA in California).
+
+### Competing Sessions
+
+* 11A: Stitching together a wallet: What's there, what's missing
+* 11G: Bubbles? Federation in disadvantaged and disconnected environments
 
 # More Sessions to Follow ...
 
