@@ -251,7 +251,7 @@ BC wallet specifically avoids showing information on screen. They want to force 
 
 ## Session 5A: Trust Spanning Protocol for Muggles
 
-* Drummond Reed, Steering Committe member of the ToIP Foundation
+* Drummond Reed, Steering Committee member of the ToIP Foundation
 * Wenjing Chu, Steering Committee member of the ToIP Foundation
 * Sam Smith, Creator of KERI
 
@@ -473,9 +473,22 @@ Starts by summarizing content posted at [What does Presentation Exchange do and 
 
 Much active discussion about combining credentials issued from different sources (e.g. university degree + drivers license + professional license).
 
-# More Sessions to Follow ...
+## Session 15A: ToIP SSI Glossary
 
-_(I'll continue to add notes as I attend more sessions.)_
+* Drummond Reed, Steering Committee member of the ToIP Foundation
+* Brian Richter, member of Concept and Terminology Working Group, ToIP
+
+{{ es_image(id = "es-4593-009") }}
+
+I came in late. Drummond was walking through some existing SSI glossaries that already existed and why ToIP is building its own.
+
+On [eSSIF-Lab Glossary](https://essif-lab.github.io/framework/docs/essifLab-glossary) (EU funded), they also have a mental models section.
+
+Glossary is currently available as an early draft on [Google Docs](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM). Sounds like they will migrate it to MediaWiki or similar later this year.
+
+Brian Richter did a [bunch of tooling](https://github.com/aviarytech/tev2-ingress) to make this feasible and to assist in the translation from GitHub wikis to Google Docs. Looks like a tremendous amount of work done to make editing and viewing accessible to people who do and do not prefer working with GitHub.
+
+{{ es_image(id = "es-4594-002") }}
 
 # Important Learning: Verifiable Identifiers
 
