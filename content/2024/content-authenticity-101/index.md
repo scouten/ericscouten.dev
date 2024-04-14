@@ -7,9 +7,7 @@ As part of preparing for [Internet Identity Workshop](https://internetidentitywo
 
 <!-- more -->
 
-I'm posting it here a few days in advance of IIW as an opportunity for conference-goers to have a pre-read and as hopefully helpful material for those who can't attend.
-
-[Slide deck (38 pages, PDF)](./2024-04-16-iiw-cai-101.pdf)
+I'm posting it here a few days in advance of IIW as an opportunity for conference-goers to have a pre-read ([slide deck](./2024-04-16-iiw-cai-101.pdf)) and as hopefully helpful material for those who can't attend.
 
 ## Why Content Provenance?
 
@@ -17,7 +15,7 @@ In my appearance on [**The Future of Identity** podcast](https://www.buzzsprout.
 
 **"What does the future of identity looks like to you?"**
 
-Here's how I answered (at 32′19″ of the episode):
+Here's how I answered (at 32′19″ of the recording):
 
 > When I talk about the work that I'm doing with friends and family and people that I meet in the general public, there's a lot of interest in what we're doing. And a lot of that comes down to this fatigue that people feel, this onslaught of information designed to misinform and mislead. So they're really interested in hearing about potential answers to that.
 >
@@ -29,27 +27,46 @@ Here's how I answered (at 32′19″ of the episode):
 >
 > That's a future I'm super thrilled to be part of.
 
+## Our Approach
+
+Fundamentally our goals are to:
+
+* Allow **content creators** to make tamper-evident, digitally-signed statements about what they've created.
+* Allow **content consumers** to evaluate those statements and use them to make trust decisions.
+
+We are _not_ attempting to build a fact-checking or fake image detection system. Those aren't sustainable efforts.
+
+Some examples of things we enable content creators to say:
+
+* location and time of original capture
+* actions taken while editing
+* thumbnail description of content
+* ingredients (other content) incorporated when making new content
+* who was involved in creating the content
+
 ## Who's Building This Vision?
 
-I work for [Adobe](https://adobe.com) and, as such, I'm part of a team that is dedicated to building out the future I described above. We do this through three organizations that we've helped to create:
+I'm part of a team at [Adobe](https://adobe.com) that is dedicated to building out the future I described above. We do this through three organizations that we've helped to create:
 
 * **[Content Authenticity Initiative](https://contentauthenticity.org):** CAI is a community of media and tech companies, NGOs, academics, and others working to promote adoption of an open industry standard for content authenticity and provenance. The CAI does outreach, advocacy, and education around these open standards. Content Authenticity Initiative is also the name of the business unit of which I'm a part at Adobe through which we participate in all three of these organizations, develop open source and open standards, and guide implementation within Adobe's product and service suite.
 
 * **[Coalition for Content Provenance and Authenticity](https://c2pa.org):** C2PA is a technical standards organization which ddresses the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of media content.
 
-* **[Creator Assertions Working Group](https://creator-assertions.github.io):** CAWG builds upon the work of the C2PA by defining additional assertions that allow content creators to express individual and organizational intent about their content.
+* **[Creator Assertions Working Group](https://creator-assertions.github.io):** CAWG builds upon the work of the C2PA by defining additional assertions that allow content creators to express individual and organizational identity and intent about their content.
 
-## Technical data model
+## Technical Data Model
 
-As a part of the IIW presentation, I'll walk through how we translate the above vision into technical reality. This will largely be a recap of the following:
+As part of the IIW presentation, I'll walk through how we translate the above vision into technical reality. This will largely be a recap of the following:
 
-* **C2PA data model**
-  * Slides 15 through 27 of [IIW slide deck](./2024-04-16-iiw-cai-101.pdf)
-  * [C2PA Content Credentials Technical Specification, version 2.0](https://c2pa.org/specifications/specifications/2.0/specs/C2PA_Specification.html)
+### C2PA Data Model
 
-* **CAWG identity assertion**
-  * Slides 29 through 34 of [IIW slide deck](./2024-04-16-iiw-cai-101.pdf)
-  * [CAWG Identity Assertion (current working draft)](https://creator-assertions.github.io/identity/1.x-add-vc-v3/)
+* Slides 15 through 27 of [IIW slide deck](./2024-04-16-iiw-cai-101.pdf)
+* [C2PA Content Credentials Technical Specification, version 2.0](https://c2pa.org/specifications/specifications/2.0/specs/C2PA_Specification.html)
+
+### CAWG Identity Assertion
+
+* Slides 29 through 34 of [IIW slide deck](./2024-04-16-iiw-cai-101.pdf)
+* [CAWG Identity Assertion (current working draft)](https://creator-assertions.github.io/identity/1.x-add-vc-v3/)
 
 ## More Sessions at IIW
 
@@ -57,14 +74,14 @@ The Content Authenticity 101 talk (Tuesday) or similar knowledge is a recommende
 
 * CAWG identity assertion technical working session
   * More detailed walkthrough of identity assertion
-  * "Interesting challenges" using VCs with broadcast media
+  * "Interesting challenges" using VCs in a broadcast media context
 
 * CAWG identity assertion user experience working session
   * Co-led with Pia Blumenthal, UX lead for CAI at Adobe
 
 ## Recent Presentations and Podcast Appearances
 
-I've been invited to give several presentations on Content Authenticity Initiative topics in the last few months:
+I've been invited to give several presentations on our work in the last few months:
 
 * [**Trust Over IP Foundation:** Content Authenticity Initiative and Trust Over IP Foundation Collaboration](https://www.youtube.com/watch?v=pq_fFHMs7sQ) _(21 February 2024):_ My colleague Santiago Lyon, Head of Advocacy and Education for [CAI](https://contentauthenticity.org), and I were the invited guests at the [Trust Over IP Foundation](https://trustoverip.org)'s monthly all-members meeting. We gave an introduction to how CAI works, a technical overview of the [C2PA data model](https://c2pa.org/specifications/specifications/2.0/specs/C2PA_Specification.html), and an early discussion of the [CAWG identity work](https://creator-assertions.github.io/identity/1.x-add-vc-v3/). ([PDF slides](./2024-02-20-toip.pdf))
 
