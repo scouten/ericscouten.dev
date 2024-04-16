@@ -6,13 +6,21 @@ date = 2024-04-16
 toc = true
 +++
 
-This week I'm attending the 38th biannual **[Internet Identity Workshop](https://internetidentityworkshop.com),** which is one of the most valuable conferences I've encountered in any professional space. As the name might suggest, the topics are largely around how to express human and organizational identity in digital terms that respect privacy and security.
+This week I'm attending the 38th biannual **[Internet Identity Workshop](https://internetidentityworkshop.com),** which is one of the most valuable conferences I've encountered in any professional space. As the name might suggest, the topics are largely around how to express human and organizational identity in digital terms that respect privacy and security. When I attended the previous IIW last fall, [I wrote about it in real time](/2023/iiw.md) as the conference was in progress. That format worked well for me and received a lot of compliments, so I'm attempting it again this week.
 
 <!-- more -->
 
-In my work at [Adobe](https://adobe.com) I help define and implement the **[Content Authencity Initiative](https://contentauthenticity.org).** I recently published an article titled **[Content Authenticity 101](/2024/content-authenticity-101.md),** which explains the various organizations that I'm most involved with in this space.
+## Why Am I Here?
 
-We are particularly interested in enabling content creators to identify themselves as the creators of their content and credibly refute false claims of authorship on their behalf, which is why I am attending this conference for the third time. This is my first time attempting to describe it in real time as the conference proceeds.
+I'm part of a team at [Adobe](https://adobe.com) that is dedicated to helping content creators and content consumers establish genuine connections with each other. We do this through three organizations that we've helped to create:
+
+* **[Content Authenticity Initiative](https://contentauthenticity.org):** CAI is a community of media and tech companies, NGOs, academics, and others working to promote adoption of an open industry standard for content authenticity and provenance. The CAI does outreach, advocacy, and education around these open standards. Content Authenticity Initiative is also the name of the business unit of which I'm a part at Adobe through which we participate in all three of these organizations, develop open source and open standards, and guide implementation within Adobe's product and service suite.
+
+* **[Coalition for Content Provenance and Authenticity](https://c2pa.org):** C2PA is a technical standards organization which ddresses the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of media content.
+
+* **[Creator Assertions Working Group](https://creator-assertions.github.io):** CAWG builds upon the work of the C2PA by defining additional assertions that allow content creators to express individual and organizational identity and intent about their content.
+
+I recently published an article titled **[Content Authenticity 101](/2024/content-authenticity-101.md),** which explains these organizations and our motivations in more detail.
 
 ## The Venue
 
@@ -30,9 +38,7 @@ There are several variations on how the agenda gets built at an unconference. In
 
 You might think that not having a predefined agenda would mean that the topics that occur could be flimsy or weak or low in value. In practice, the opposite is true. Both times I've attended this conference so far, I've had to make very difficult choices about which sessions _not_ to attend so I could attend something else which was _also_ very compelling.
 
-Last time (in April), I managed to schedule a weekend to myself [disappearing on the Mendocino coast](https://ericscouten.travel/2023/04-18+california/35-36-on-california-coast/) to decompress afterward and I'll be doing similarly this time. For those of us who are introverts, I highly recommend scheduling some kind of downtime like this afterward. (I talked to almost nobody for four days after IIW and it was _perfect._)
-
-And, with that, here is my description of the sessions I'm attending this time around:
+With that, here is my description of the sessions I'm attending this time around:
 
 ## Sessions I've Attended
 
