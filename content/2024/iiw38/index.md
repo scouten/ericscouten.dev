@@ -10,7 +10,7 @@ This week I'm attending the 38th biannual **[Internet Identity Workshop](https:/
 
 <!-- more -->
 
-## Why Am I Here?
+# Why Am I Here?
 
 I'm part of a team at [Adobe](https://adobe.com) that is dedicated to helping content creators and content consumers establish genuine connections with each other. We do this through three organizations that we've helped to create:
 
@@ -40,6 +40,8 @@ You might think that not having a predefined agenda would mean that the topics t
 
 With that, here is my description of the sessions I'm attending this time around:
 
-## Sessions I've Attended
+# Tuesday Sessions
 
-_(these will come once the conference starts)_
+## Session 1C: Content Authenticity 101
+
+I gave an introductory session titled [Content Authenticity 101](/2024/content-authenticity-101.md). We had about 30-40 people attend with lots of great questions about identity binding, signature mechanisms, and trust list.
