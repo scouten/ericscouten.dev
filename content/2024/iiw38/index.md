@@ -43,10 +43,12 @@ With that, here is my description of the sessions I'm attending this time around
 # Tuesday Sessions
 
 ## Session 1C: Content Authenticity 101
+_Eric Scouten_
 
 I gave an introductory session titled [Content Authenticity 101](/2024/content-authenticity-101). We had about 30-40 people attend with lots of great questions about identity binding, signature mechanisms, and trust list.
 
 ## Session 2L: `did:tdw`
+_Stephen Curran_
 
 Simplified version of DID with key rotation sponsored by BC Government.
 
@@ -66,9 +68,10 @@ Links:
 
 * [Specification](https://github.com/bcgov/trustdidweb)
 * [TypeScript implementation](https://github.com/bcgov/trustdidweb-ts/)
-* Stephen's slide deck](https://docs.google.com/presentation/d/1PHo16asyceRiNKN7UkV8BSmtWtN6Wp3A6_9MV0IQ2jg/edit#slide=id.p)
+* [Stephen's slide deck](https://docs.google.com/presentation/d/1PHo16asyceRiNKN7UkV8BSmtWtN6Wp3A6_9MV0IQ2jg/edit#slide=id.p)
 
 ## Session 3M: Provenance in a ML World
+_Matt Miller_
 
 Discussion about image theft and appropriation of identity.
 
@@ -84,6 +87,6 @@ Some misconceptions I observed:
 
 "I think you just said it sucks to have to make our own (trust) decisions."
 
-Elithia combines signature with DNS.
+[Alethia](https://github.com/danielquinn/aletheia) combines signature with DNS.
 
-Tonaten (sp?) anti-plagiarism tool used in academia.
+[TurnItIn](https://www.turnitin.com) anti-plagiarism tool used in academia.
