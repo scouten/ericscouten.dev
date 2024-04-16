@@ -45,3 +45,19 @@ With that, here is my description of the sessions I'm attending this time around
 ## Session 1C: Content Authenticity 101
 
 I gave an introductory session titled [Content Authenticity 101](/2024/content-authenticity-101). We had about 30-40 people attend with lots of great questions about identity binding, signature mechanisms, and trust list.
+
+## Session 2L: `did:tdw`
+
+Simplified version of DID with key rotation sponsored by BC Government.
+
+<1000 lines of code to implement.
+
+Intended to incorporate key concepts from KERI, but not take on the complexity of KERI.
+
+Compatible with `did:web`!
+
+Still to do: DID challenges.
+
+Ohhh, wait ... they have DID issuer trust chaining built in via `/did/whois`.
+
+Heading to standardization (IETF likely) soon.
