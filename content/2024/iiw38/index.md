@@ -90,3 +90,39 @@ Some misconceptions I observed:
 [Alethia](https://github.com/danielquinn/aletheia) combines signature with DNS.
 
 [TurnItIn](https://www.turnitin.com) anti-plagiarism tool used in academia.
+
+## Session 4L: Business of SSI and Authentic Data
+_Timothy Ruff_
+
+DTV founded in 2019 to launch new SSI businesses.
+
+2022-2024 incubating more startups in health care, trade, securitization, and more.
+
+Business model challenges:
+
+* A use case isn't a business model.
+* The tech is the easy part; making money is the hard part.
+* Too focused on individuals. Re SSI: "We want this more for people than they want it for themselves."
+* Get organizations on board, then the individuals will follow.
+* Focused on identity at the expense of authentic _data._
+* Well-funded competitors and sensitive data.
+* Web3, blockchain, etc. have a not-wonderful reputation in many circles. "It's lost it sizzle."
+* The term "self-sovereign" causes allergic reactions esp. among governments.
+
+Suggestions:
+
+* Follow _Running Lean_ by Ash Maurya (a student of Eric Rees)
+* Look for problem-**solution** fit (not product-_market_ fit)
+* Read _The Mom Test_. (tl;dr: Everyone will lie to you even if they don't think they're lying to you. Work around this by asking about _existing_ behavior, not to predict future behavior.)
+* Spend more time understanding the problem, not the product. "Fall in love with your customer's problem. The solution will fall out when you really understand the problem."
+* Look for multi-sided markets. In such an environment, find the "queen bee" who controls the overall ecosystem. Understand _their_ problem and you move the market. (Example: European Banking Authority and managing login systems for 6000 banks and their regulatory filings.)
+* Find minimum viable "route" for success. Show the solution in the small, then it will grow.
+* Be prepared to pivot. Timothy's example:
+  * Proprietary -> blockchain -> KERI
+  * VCs -> ACDCs
+  * DIDs -> AIDs
+  * ZKPs -> graduated disclosure
+  * SSI -> B2B (the "route" to adoption)
+* Be a truth-seeker. "Strong opinions loosely held."
+
+"The technology in this space has a half-life of about five years." 🎤 drop
