@@ -6,7 +6,7 @@ date = 2024-04-16
 toc = true
 +++
 
-This week I'm attending the 38th biannual **[Internet Identity Workshop](https://internetidentityworkshop.com),** which is one of the most valuable conferences I've encountered in any professional space. As the name might suggest, the topics are largely around how to express human and organizational identity in digital terms that respect privacy and security. When I attended the previous IIW last fall, [I wrote about it in real time](/2023/iiw.md) as the conference was in progress. That format worked well for me and received a lot of compliments, so I'm attempting it again this week.
+This week I'm attending the 38th biannual **[Internet Identity Workshop](https://internetidentityworkshop.com),** which is one of the most valuable conferences I've encountered in any professional space. As the name might suggest, the topics are largely around how to express human and organizational identity in digital terms that respect privacy and security. When I attended the previous IIW last fall, [I wrote about it in real time](/2023/iiw) as the conference was in progress. That format worked well for me and received a lot of compliments, so I'm attempting it again this week.
 
 <!-- more -->
 
@@ -44,4 +44,4 @@ With that, here is my description of the sessions I'm attending this time around
 
 ## Session 1C: Content Authenticity 101
 
-I gave an introductory session titled [Content Authenticity 101](/2024/content-authenticity-101.md). We had about 30-40 people attend with lots of great questions about identity binding, signature mechanisms, and trust list.
+I gave an introductory session titled [Content Authenticity 101](/2024/content-authenticity-101). We had about 30-40 people attend with lots of great questions about identity binding, signature mechanisms, and trust list.
