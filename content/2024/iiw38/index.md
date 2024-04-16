@@ -66,3 +66,24 @@ Links:
 
 * [Specification](https://github.com/bcgov/trustdidweb)
 * [TypeScript implementation](https://github.com/bcgov/trustdidweb-ts/)
+* Stephen's slide deck](https://docs.google.com/presentation/d/1PHo16asyceRiNKN7UkV8BSmtWtN6Wp3A6_9MV0IQ2jg/edit#slide=id.p)
+
+## Session 3M: Provenance in a ML World
+
+Discussion about image theft and appropriation of identity.
+
+"Overwhelm with the positive (trust signal); ignore the negative."
+
+Discussion about how to have trust in anonymous or pseudonymous content.
+
+Some misconceptions I observed:
+
+* There's a binary distinction between human and generative content. (Where does gen fill fit in?)
+* There's a binary distinction between edited and unedited content. (What about photographer's/videographer's choice of what to include in the frame?)
+* There's a binary decision to make: trust or not trust. But trust is on a spectrum from closest friend to barbership hearsay.
+
+"I think you just said it sucks to have to make our own (trust) decisions."
+
+Elithia combines signature with DNS.
+
+Tonaten (sp?) anti-plagiarism tool used in academia.
