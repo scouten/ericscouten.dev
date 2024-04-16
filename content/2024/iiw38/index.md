@@ -61,3 +61,8 @@ Still to do: DID challenges.
 Ohhh, wait ... they have DID issuer trust chaining built in via `/did/whois`.
 
 Heading to standardization (IETF likely) soon.
+
+Links:
+
+* [Specification](https://github.com/bcgov/trustdidweb)
+* [TypeScript implementation](https://github.com/bcgov/trustdidweb-ts/)
