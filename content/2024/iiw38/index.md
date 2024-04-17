@@ -189,3 +189,36 @@ Current implementations:
 * [trustroot.ca](https://trustroot.ca)
 * [Trust Registry HA DIDs](https://trustregistry.nborbit.ca/)
 * [Implementation in DID resolver](https://godiddy.com/)
+
+## Session 10C: Credential Schemas at DIF
+_Kim Hamilton Duffy, Otto Mora_
+
+**Goal:** Develop and publish credential schemas to support interoperability.
+
+**Outputs:**
+
+* Guidance examples
+* Per type of schema:
+  * Purpose, use, alignment, recommendations
+  * Abstract data model
+  * Mapped schemas for different formats
+* Reawakened work item within claims and credentials WG within DIF
+
+**Viewpoint:** Credential schemas provide improved interoperability, discoverability, ease-of-use, and standardization.
+
+Some examples they're working on:
+
+* Basic KYC model
+* Proof of humanity
+* Proof of age
+* Anti-money-laundering
+
+Audience suggestion: DIF should create guidance on how to create new credential types. (Strong agreement from me!)
+
+Some examples of credential schema registries:
+
+* [Credential Finder](https://credentialfinder.org)
+* [Polygon Schema Explorer](https://schema-builder.polygonid.me)
+* DIF will be building one.
+
+DIF motivation to promote alignment in credential type.
