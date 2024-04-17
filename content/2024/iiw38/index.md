@@ -176,3 +176,16 @@ Follow-up: What is Canonical JSON?
 Replicate key portions of the DID document (proof?) in DNS records as a safeguard against server compromise.
 
 Look at [DNSViz](https://dnsviz.net), a tool for verifying the status of a DNS zone.
+
+Links:
+
+* [Slide deck](https://docs.google.com/presentation/d/1u6GK7oWw-ewB3lONncI1CfcMpiJ2zUT8LrUGRLuV1w8)
+* [Draft specification on GitHub: CIRALabs / high-assurance-dids-with-dns](https://github.com/CIRALabs/high-assurance-dids-with-dns)
+* [IETF Draft RFC](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-03.html)
+
+Current implementations:
+
+* [trustregistry.ca](https://trustregistry.ca)
+* [trustroot.ca](https://trustroot.ca)
+* [Trust Registry HA DIDs](https://trustregistry.nborbit.ca/)
+* [Implementation in DID resolver](https://godiddy.com/)
