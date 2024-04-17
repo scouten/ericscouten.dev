@@ -143,7 +143,7 @@ I led a discussion about some of the interesting challenges we're facing as we w
 Some discussion in response to my slides:
 
 * **Broadcast application** _(slide 26):_ Encode as much as possible into the asset VC. This also helps mitigate the "phone home" at time of verification potential harm.
-* **Interoperability** _(slide 29):_ Sam suggested to focus on major example DID methods. There's an upcoming registry of DID methods supported by US gov. Pay attention to that.
+* **Interoperability** _(slide 29):_ Sam suggested to focus on major example DID methods. There's an upcoming registry of DID methods supported by US gov. Pay attention to that. Also, someone recommended using the [DIF Universal Resolver](https://dev.uniresolver.io) to address the DID interop issue. Universal Resolver understands about 60 methods, which is probably a good starting point for what to support.
 * **Duplicate identity** _(slide 30):_ Perhaps the DID identifier is more important than the name.
 * **Bulk signing** _(slide 31):_ As long as consent is there, authorization of each one is not important.
 * **Social media** _(slide 32):_ No standard exists today.
