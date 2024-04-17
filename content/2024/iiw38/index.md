@@ -149,3 +149,30 @@ Some discussion in response to my slides:
 * **Social media** _(slide 32):_ No standard exists today.
 
 Scott Perry approached me afterwards and encourged me to review the [ToIP Issuer Requirements Guide for Governance Frameworks for Verifiable Credentials](https://trustoverip.org/permalink/Issuer-Requirements-Guide-V0.01-2024-01-30.pdf). This document provides guidances for several of the thorny questions I raised in the session.
+## Session 9M: High Assurance DIDs with DNS
+_Mathieu Glaude, Tim Bouma, Jesse Carter_
+
+_Check for link and spec after meeting._
+
+Design goal: How can we take a friendly DID method (`did:web`) and add high assurance without adding a lot of complexity.
+
+Problem statement: Idetifiers today are either easy to recognize _or_ easy to verify but rarely if ever both.
+
+Solution: Develop formal guidance for formally binding DID with DNS infrastructure.
+
+Starting from `did:web:issuer.trustregistry.ca`, how can we provide machine-verifiable assertions?
+
+* Leverage DNSSEC to **cryptographically-assured binding** of domain name to X.509 and TLS certs
+* Enable a **digitally-signed** DID document
+
+No new infrastructure required.
+
+Tim Bouma: Think of this as 2FA for DID docs.
+
+Using existing DNS record fields and DID document content that are already standardized.
+
+Follow-up: What is Canonical JSON?
+
+Replicate key portions of the DID document (proof?) in DNS records as a safeguard against server compromise.
+
+Look at [DNSViz](https://dnsviz.net), a tool for verifying the status of a DNS zone.
