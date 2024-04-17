@@ -126,3 +126,24 @@ Suggestions:
 * Be a truth-seeker. "Strong opinions loosely held."
 
 "The technology in this space has a half-life of about five years." 🎤 drop
+
+# Wednesday Sessions
+
+## Session 6C: Content Authenticity 201: Technical Challeges in CAI + VC Binding
+_Eric Scouten_
+
+I led a discussion about some of the interesting challenges we're facing as we work to bind varying kinds of credentials to the CAI/C2PA/CAWG ecosystem.
+
+[Slide deck](./iiw38-identity-session.pdf)
+
+![Me, making a point](jw-244-a379.jpg)
+
+![Audience](es-244-8686.jpg)
+
+Some discussion in response to my slides:
+
+* **Broadcast application** _(slide 26):_ Encode as much as possible into the asset VC. This also helps mitigate the "phone home" at time of verification potential harm.
+* **Interoperability** _(slide 29):_ Sam suggested to focus on major example DID methods. There's an upcoming registry of DID methods supported by US gov. Pay attention to that.
+* **Duplicate identity** _(slide 30):_ Perhaps the DID identifier is more important than the name.
+* **Bulk signing** _(slide 31):_ As long as consent is there, authorization of each one is not important.
+* **Social media** _(slide 32):_ No standard exists today.
