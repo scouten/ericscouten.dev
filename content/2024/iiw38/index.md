@@ -193,6 +193,8 @@ Current implementations:
 ## Session 10C: Credential Schemas at DIF
 _Kim Hamilton Duffy, Otto Mora_
 
+[Slide deck](https://docs.google.com/presentation/d/12hKsOIubyTI7zigMiChmDjTFVK40GBtM8cZM6eeQYHw/edit)
+
 **Goal:** Develop and publish credential schemas to support interoperability.
 
 **Outputs:**
