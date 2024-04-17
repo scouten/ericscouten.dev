@@ -1,6 +1,7 @@
 +++
 title = "Content Authenticity 101"
 date = 2024-04-13
+aliases = ["/cai-101", "/cai101", "/ca101", "/ca-101"]
 +++
 
 As part of preparing for [Internet Identity Workshop](https://internetidentityworkshop.com) (IIW) next week, I've been refining the presentation I often give about the work of the Content Authenticity Initiative and related projects.
