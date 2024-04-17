@@ -147,3 +147,5 @@ Some discussion in response to my slides:
 * **Duplicate identity** _(slide 30):_ Perhaps the DID identifier is more important than the name.
 * **Bulk signing** _(slide 31):_ As long as consent is there, authorization of each one is not important.
 * **Social media** _(slide 32):_ No standard exists today.
+
+Scott Perry approached me afterwards and encourged me to review the [ToIP Issuer Requirements Guide for Governance Frameworks for Verifiable Credentials](https://trustoverip.org/permalink/Issuer-Requirements-Guide-V0.01-2024-01-30.pdf). This document provides guidances for several of the thorny questions I raised in the session.
