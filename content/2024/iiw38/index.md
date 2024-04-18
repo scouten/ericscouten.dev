@@ -224,3 +224,63 @@ Some examples of credential schema registries:
 * DIF will be building one.
 
 DIF motivation to promote alignment in credential type.
+
+# Thursday Sessions
+
+## Session 11B: Content Authenticity: UX Challenges with Identity
+_Eric Scouten, Pia Blumenthal_
+
+_(To do: Add audience member's notes when available.)_
+
+![Pia attending and presenting remotely.](./es-244-8705.jpg)
+
+## Session 12A: A Bridge to the Future: Connecting X.509 to DIDs and VIDs
+_Drummond Reed, Eric Scouten, Scott Perry, Stephen Curren_
+
+### X.509 Overview
+
+Scott introduced the CA mechanism which is used by browsers to make the trust/don't trust decision in HTTPS interaction. Each browser has its own governance mechanism, but they work together via the CA Browser Forum to share governance requirements known as Web Trust.
+
+EU has its own trust infrastructure via ETSI. EU has a certification structure driven by EIDAS 1.
+
+C2PA is evolving its own distinct trust infrastructure via its Trust List Task Force.
+
+Browsers have worked together to require a control process for certificate issuance tracking known as Certificate Transparency Log, meant to prevent fake CAs from pretending to have issued certs.
+
+### DID/VID Overview
+
+DID = Decentralized Identifier (W3C standard ~2 years ago). Ties public key, private pair, and identifier. Many but not all DID methods allow continuity of identity across private key rotation.
+
+VID = ToIP concept, related to DID, but removing some of the syntactic requirements.
+
+VID is an effort to reopen the tent.
+
+### Comparisons
+
+In X.509, issuer is necessarily always a CA as a means of enforcing the governance rules. DIDs are much more open in issuance. X.509s could be considered VCs, but in a different format and with stricter governance.
+
+DIDs and VCs split the human readable part vs the machine-readable part.
+
+DIDs allow governance to be added post-hoc. A DID can be attached to a VC at a later point depending on the governance or requirements of the DID holder.
+
+![Diagram with X.509 and DID/VC comparison.](./es-244-8706.jpg)
+
+### Is This a Bridge Worth Building?
+
+Challenge that ToIP did:x509 TF has encountered: How do you retain a persistent identifier given that X.509 certs have to be periodically rotated? Maybe we don't.
+
+Maybe the answer is to invert that. What if we encode a DID into X.509 subject alternative name (SAN) or similar field?
+
+CA may or may not be able to use SAN depending on type of cert requested.
+
+So can we describe a way for CSR (Certificate Signing Request) to include proof of control over the private key associated with the DID?
+
+Lucy Yang and her company did a conversion of X.509 to DID a few years ago as part of WHO COVID credentials effort. (TO DO: Add link to this effort if possible.)
+
+EBSI is working toward this using exactly this approach. (Follow up with Alex Tweeddale.)
+
+California DMV is referencing X.509 chain via `x5c` parameter in a `did:jwk`.
+
+Look into EBSI verifiable accreditation mechanism. Alex Tweeddale sent a link to a [presentation he did regarding EBSI trust chaining](https://docs.google.com/presentation/d/1SgquY8Gjm4MddkjbEbQ-_KumyOADic1u31OmXsBbiSg).
+
+![Alex’s sketch of EBSI verifiable accreditation mechanism.](./es-244-8707.jpg)
