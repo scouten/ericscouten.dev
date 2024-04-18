@@ -230,6 +230,8 @@ DIF motivation to promote alignment in credential type.
 ## Session 11B: Content Authenticity: UX Challenges with Identity
 _Eric Scouten, Pia Blumenthal_
 
+[Slide deck](./cawg-ux-for-iiw.pdf)
+
 _(To do: Add audience member's notes when available.)_
 
 ![Pia attending and presenting remotely.](./es-244-8705.jpg)
