@@ -228,11 +228,45 @@ DIF motivation to promote alignment in credential type.
 # Thursday Sessions
 
 ## Session 11B: Content Authenticity: UX Challenges with Identity
-_Eric Scouten, Pia Blumenthal_
+_Pia Blumenthal, Eric Scouten_
 
 [Slide deck](./cawg-ux-for-iiw.pdf)
 
-_(To do: Add audience member's notes when available.)_
+Notes adapted from audience member Zaïda Rivai. Thank you!
+
+Pia raised several discussion questions:
+* Should there be a universal verifier? 
+* Who is the owner of that identity?
+* Do different types of identity verifications warrant different UI treatment? 
+* What level do we need to surface these? 
+* The number of identity assertions do we need?
+* Do we only ever show things that are verified or can we also share self-asserted information (which is less trustworthy).
+
+**Alex:** UI/UX in Cheqd have the same issue in the team how to display VC easily.
+
+**Pia:** How much verification is needed to provide trust? Single? Proof who you are? Do you have a list of best practices? 
+
+**Alex:** Trust is diagonal. 
+* Vertical: within a company 
+* Horizontal: “I trust Riley, I’m not working at Trinsic, but I met him.” Creators to accredit other creators and having companies having the vertical trust. 
+* Diagonal: is the best
+
+**Judith (ToIP):** How we do everything, but from a specific context, how is that governed> 
+How is this covered today in different media outlets? And then getting to the point of trust registries: “This ecosystem recognizes X and this ecosystem trusted Y.” 
+
+**Lorie:** Also a legal problem but onboarding legal frameworks, signatures exist. That is one moving level. KYC is also well known and describe a level of trust is a different thing. But like Alex is the sum of all the parts.
+
+**Drummond:** Don’t get enough UX designers. Gen team is leaning into this. Most of the technical questions are answered, but all are about UX. Literally same as you (Pia) put up here. One context, one specific service. It is a hard problem. 
+
+**Cam:** Is this a problem that needs to be solved? Enough user basis, real problem. Should we prioritize or other problems that have more user aid. 
+
+**Riley:** Interested whether media platforms have different trust requirements. Twitter has their platform and they may be okay with strong verification checkmark but not okay if it would be only oAuth. Is there a mechanism for a platform the users consuming through, tailored the trust decision? Wonder whether the platforms and media whether they want to make the trust decisions for the users. Something that’s considered? 
+
+**Pia:** Progressive disclosure. Implementer chooses what information to highlight. Level 1 and 2.  People don’t necessarily want to see bugs _(overlay icons) over top of their content. Up to the implementer to figure what the right information is for that audience. At Adobe, we prioritize AI disclosure. When AI generated or edited with gallery mixed creator work. Might not be the case somewhere else. In C2PA implementations we created a tiered experience. Some only show how it’s created, other show who is involved, the audience has to understand that it’s this model (progressive disclosure).
+
+**Judith:** Think that UI specifically is important for the end user to understand. Getting the interaction patterns, UX is very difficult. UX group, digital wallet survey and coming to what is the next project?
+
+**Alex:** Maybe there should also be a creator reputation WG: completely separate goal to assertions.
 
 ![Pia attending and presenting remotely.](./es-244-8705.jpg)
 
