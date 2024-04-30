@@ -102,7 +102,3 @@ I've been invited to give several presentations on our work in the last few mont
 * [**SSI Orbit** podcast: Content Authenticity: Combating Deepfakes, Misinformation and Fraud](https://www.youtube.com/watch?v=VnovH1Cxz8g) _(22 March 2024):_ [Mathieu Glaude](https://www.linkedin.com/in/mathieuglaude/) of [Northern Block](https://northernblock.io) interviewed me about the challenges of comating misinformation and disinformation online, how [CAI](https://contentauthenticity.org) aims to differentiate legitimate content, the role of [C2PA's technical standards](ttps://c2pa.org/specifications/specifications/2.0/specs/C2PA_Specification.html) in establishing content provenance, and upcoming strategies for documenting individual and organizational content authorship.
 
 * **[Internet Identity Workshop](https://internetidentityworkshop.com):** Content Authenticity 101 _(16 April 2024):_ This presentation (not recorded) will largely mirror the content in this article.
-
-## Quote of the Day
-
-"Standards development is like herding cats in a war zone."
