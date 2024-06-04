@@ -61,6 +61,12 @@ I like the term "identity silos." (They won't go away quietly.)
 
 "The risk of siloed wallets."
 
+A friend who had observed last year's conference was stunned by the sea change in this conference. Last year, decentralized identity and even eIDAS seemed like an afterthought; this year, in the keynote, we were told that it is the next big thing.
+
+Related links:
+
+* [DIF blog: Decentralized ID Technical Mastery Sprint @ EIC](https://blog.identity.foundation/decentralized-id-technical-mastery-sprint-eic/)
+
 ## [Protocols, Payloads, Policies, Oh My!: How can Enterprise Customers Make Better Decisions?](https://www.kuppingercole.com/sessions/5487)
 _Anil John, US Department of Homeland Security_
 
@@ -85,3 +91,29 @@ Canada building a digital identity platform starting late 2021. Wow ... conspira
 I love her use of "super-spreaders" to describe misinformation ... super-spreader.
 
 "Authenticity is the new identity."
+
+## [Building Trust in a World of Misinformation and Crisis: Navigating the Storm](https://www.kuppingercole.com/sessions/5496)
+_(panel)_
+
+One panelist looking for a new term to fit somewhere on the spectrum between (human) unintentional misinformation, AI hallucination, and (human) _intentional_ misinformation.
+
+Pablo: "We're still trying to find out how to label bad information (*); we should be thinking about how to label good information." (Hello!)
+
+## [Standards are About Making Choices](https://www.kuppingercole.com/sessions/5499)
+
+"Standards are about making choices that don't matter." (Examples: 200 is the HTTP status code for a successful response.) ... Except that they do. Everyone has to make the _same_ choices for the same concepts for a standard to lead to meaningful interoperability.
+
+Key point: Choices matter. Making them improves interoperability.
+
+Gives W3C VCs a C rating.
+
+Gives DIDs a D rating. "But it does get worse."
+
+Then gives Multiverse (an IETF proposal) an F rating. "It institutionalizes the failure to make a choice." See [Multiformats Considered Harmful](https://self-issued.info/?p=2408). 😱
+
+## [Les Miserables of the Cyber Frontier: The Dueling Narratives of Decentralized Identities](https://www.kuppingercole.com/sessions/5572)
+_Markus Sabadello and Nat Sakimura_
+
+Like Kuppinger earlier today, Markus notes the shift in how much decentralized identity has become welcome here at EIC.
+
+Interesting assertion: Data format can convey liberty. (Counterargument: The data format that supports liberty also adds complexity.)
