@@ -25,9 +25,9 @@ I recently published an article titled **[Content Authenticity 101](/2024/conten
 
 # Tuesday Sessions
 
-## [DID - Catching the Wave in Government and Financial Services](https://www.kuppingercole.com/sessions/5481)
+_NOTE: Rather than trying to take comprehensive notes for each presentation, I'll add slides as they become available and photos when I have a moment to catch up. What I'm sharing for now are generally comments that aren't immediately obvious from the slides._
 
-_(I'll add slides when they become available and photos when I have a moment to catch up.)_
+## [DID - Catching the Wave in Government and Financial Services](https://www.kuppingercole.com/sessions/5481)
 
 Interesting things not directly on slides:
 
@@ -38,8 +38,6 @@ Interesting things not directly on slides:
 
 ## [Defense against Mis/Disinformation Roundtable: Collaboration through Standards](https://www.kuppingercole.com/sessions/5705/1)
 
-_(I'll add slides when they become available and photos when I have a moment to catch up.)_
-
 _VERY_ full room. 
 
 This session spoke to security and user control of credentials, but did not cover misinformation/disinformation as we think of it in the CAI/C2PA sense. (We think primarily about misrepresenting context, technique, or identity as a way to mislead.)
@@ -49,3 +47,41 @@ Content not directly on slides:
 * Sam Curren gave a demo of OpenIDIDComm.
   * Value proposition: You can add distributed identity to an existing identity infrastructure.
 * [DID method rubric](https://www.w3.org/TR/did-rubric/) -- check link ... is this what Kim was referring to?
+
+## [Vision 2030: Rethinking Digital Identity in the Era of AI and Decentralization](https://www.kuppingercole.com/sessions/5486)
+_Martin Kuppinger_
+
+(Title tl;dr: Finally solving the IAM puzzle.)
+
+"Will decentrialized ID really be the thing that helps us solve the puzzle?" (Which puzzle.)
+
+Interesting axes: Security/protection vs enablement, technology vs business
+
+I like the term "identity silos." (They won't go away quietly.)
+
+"The risk of siloed wallets."
+
+## [Protocols, Payloads, Policies, Oh My!: How can Enterprise Customers Make Better Decisions?](https://www.kuppingercole.com/sessions/5487)
+_Anil John, US Department of Homeland Security_
+
+"Just like the Trojans, you are going to be getting a lot of gifts."
+
+"The right to paper" as a way of saying digital is not a requirement.
+
+Everybody who is arguing for their standards: "A swirling whirlpool of doom." (Obligatory reference to the XKCD "competing standards" comic.)
+
+Mistake: Don't assume that issuers and verifiers will move in tandem.
+
+## [IAM at the Front of the Cyber War: Are We Able to Beat the Bad Guys?](https://www.kuppingercole.com/sessions/5488)
+_Ivo van Bennekom, EMEA Impact Center Leader Digital Identity_
+
+Sweden saw rise in cyberattacks by 239% in the months prior to joining NATO.
+
+## [Misinformation, Disinformation, Malinformation: How to Build Public Trust in a Crisis-Shaken World](https://www.kuppingercole.com/sessions/5495)
+_Joni Brennan, Digital ID and Authentication Council of Canada_
+
+Canada building a digital identity platform starting late 2021. Wow ... conspiracy theories killed this off.
+
+I love her use of "super-spreaders" to describe misinformation ... super-spreader.
+
+"Authenticity is the new identity."
