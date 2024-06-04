@@ -38,10 +38,14 @@ Interesting things not directly on slides:
 
 ## [Defense against Mis/Disinformation Roundtable: Collaboration through Standards](https://www.kuppingercole.com/sessions/5705/1)
 
-_VERY_ full room. Not yet diving into misinformation/disinformation as we think of it in the CAI/C2PA sense.
+_(I'll add slides when they become available and photos when I have a moment to catch up.)_
+
+_VERY_ full room. 
+
+This session spoke to security and user control of credentials, but did not cover misinformation/disinformation as we think of it in the CAI/C2PA sense. (We think primarily about misrepresenting context, technique, or identity as a way to mislead.)
 
 Content not directly on slides:
 
 * Sam Curren gave a demo of OpenIDIDComm.
-
-* Value proposition: You can add distributed identity to an existing identity infrastructure.
+  * Value proposition: You can add distributed identity to an existing identity infrastructure.
+* [DID method rubric](https://www.w3.org/TR/did-rubric/) -- check link ... is this what Kim was referring to?
