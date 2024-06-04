@@ -1,6 +1,7 @@
 +++
 title = "European Identity Conference 2024"
 date = 2024-06-04
+aliases = ["/2024/eic2024"]
 
 [extra]
 toc = true
