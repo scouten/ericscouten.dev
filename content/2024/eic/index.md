@@ -117,3 +117,52 @@ _Markus Sabadello and Nat Sakimura_
 Like Kuppinger earlier today, Markus notes the shift in how much decentralized identity has become welcome here at EIC.
 
 Interesting assertion: Data format can convey liberty. (Counterargument: The data format that supports liberty also adds complexity.)
+
+# Wednesday Sessions
+
+## [Panel: Latest on eIDAS Legislation and What it Means for People, Business and Government](https://www.kuppingercole.com/sessions/5510/1)
+
+Estonia saves 2-3% of GDP by using digital signatures.
+
+Awareness of friction inherent in multiple wallet implementations (i.e. each country has its own national wallet app -- is this really necessary?).
+
+In Netherlands, there is a substantial cost (thousands of euros) to have a vetted business identity.
+
+Talk of having wallets for businesses.
+
+There is an eIDAS Expert Group which is advising member states on implementation details.
+
+Audience question: Why isn't there just one wallet for the entire EU? _(Much laughter in the room.)_ Serious answer: Allow member states to continue using existing systems.
+
+## [eIDAS 2, the Protocol Challenge and the Art of Timing](https://www.kuppingercole.com/sessions/5510/2)
+_Andreas Freitag, Co-CEO, Procivis AG_
+
+Analogy of one standard for all to Esperanto. It didn't work.
+
+So be prepared to manage and embrace diversity. "You reach interoperability through flexibility." Very much the opposite of Mike Jones' keynote last night.
+
+Write many, display as one, present what is required.
+
+Ooh, Procivis has done _many_ implementations in Rust. (!) Note that Procivis has a trust list implementation.
+
+## [eIDAS Architecture Reference Framework Status and Progress](https://www.kuppingercole.com/sessions/5546/1)
+_Paolo De Rosa, Policy Officer, European Commission_
+
+Key recent updates:
+
+* Architecture Reference Framework on GitHub
+* First release of libraries and software conponents for ARF
+* Large-scale pilots underway
+
+Ahhhh... relying parties need to be registered.
+
+EC looking for active feedback _now._
+
+## [Content Authenticity Overview and eIDAS Investigation: How Can eIDAS Support Content Creators?](https://www.kuppingercole.com/sessions/5553/1)
+_Eric Scouten_
+
+I gave a 15-minute talk about the Content Authenticity Initiative, identity, and the status of our investigation about how eIDAS-based identity might enable that technology.
+
+![Slide deck](./eic-cai-intro.pdf)
+
+[Slide deck](./eic-cai-intro.pdf) (9MB PDF)
