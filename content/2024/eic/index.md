@@ -4,6 +4,8 @@ date = 2024-06-04
 aliases = ["/2024/eic2024"]
 
 [extra]
+bounds = {sw = [52.511, 13.407], ne = [52.531, 13.427]}
+markers = "markers.js"
 toc = true
 +++
 
@@ -39,6 +41,8 @@ Interesting things not directly on slides:
 ## [Defense against Mis/Disinformation Roundtable: Collaboration through Standards](https://www.kuppingercole.com/sessions/5705/1)
 
 _VERY_ full room. 
+
+{{ es_image(id = "es-4661-096", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 This session spoke to security and user control of credentials, but did not cover misinformation/disinformation as we think of it in the CAI/C2PA sense. (We think primarily about misrepresenting context, technique, or identity as a way to mislead.)
 
