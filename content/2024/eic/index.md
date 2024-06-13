@@ -11,7 +11,7 @@ This week I'm in Berlin, attending the **[European Identity Conference](https://
 
 <!-- more -->
 
-_NOTE: Rather than trying to take comprehensive notes for each presentation, I'll add slides as they become available and photos when I have a moment to catch up. What I'm sharing for now are generally comments that aren't immediately obvious from the slides._
+_NOTE: Rather than trying to take comprehensive notes for each presentation, I'll share my own photos and comments that aren't immediately obvious from the slides. The slides for each presentation are generally available if you click the link on the section header._
 
 # Why Am I Here?
 
