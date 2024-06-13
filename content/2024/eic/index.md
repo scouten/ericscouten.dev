@@ -11,6 +11,8 @@ This week I'm in Berlin, attending the **[European Identity Conference](https://
 
 <!-- more -->
 
+_NOTE: Rather than trying to take comprehensive notes for each presentation, I'll add slides as they become available and photos when I have a moment to catch up. What I'm sharing for now are generally comments that aren't immediately obvious from the slides._
+
 # Why Am I Here?
 
 I'm part of a team at [Adobe](https://adobe.com) that is dedicated to helping content creators and content consumers establish genuine connections with each other. We do this through three organizations that we've helped to create:
@@ -24,8 +26,6 @@ I'm part of a team at [Adobe](https://adobe.com) that is dedicated to helping co
 I recently published an article titled **[Content Authenticity 101](/2024/content-authenticity-101.md),** which explains these organizations and our motivations in more detail.
 
 # Tuesday Sessions
-
-_NOTE: Rather than trying to take comprehensive notes for each presentation, I'll add slides as they become available and photos when I have a moment to catch up. What I'm sharing for now are generally comments that aren't immediately obvious from the slides._
 
 ## [DID - Catching the Wave in Government and Financial Services](https://www.kuppingercole.com/sessions/5481)
 
@@ -166,3 +166,22 @@ I gave a 15-minute talk about the Content Authenticity Initiative, identity, and
 ![Slide deck](./eic-cai-intro.pdf)
 
 [Slide deck](./eic-cai-intro.pdf) (9MB PDF)
+
+# Thursday Session
+
+## [Panel: The Wallets we Want](https://www.kuppingercole.com/sessions/5590/1)
+
+Fear of "decentralized silos." Too many context-specific wallets.
+
+Martin Kuppinger suggests that we shift our thinking from "levels of assurance" of credentials and start thinking about *provenance* of credentials.
+
+## [Securing the Foundations of Verifiable Credential Ecosystems](https://www.kuppingercole.com/sessions/5693/3)
+_Dr. Daniel Fett, Security and Standardization Expert, Authlete_
+
+No notes.
+
+## [Introduction to the German EUDI Wallet Project](https://www.kuppingercole.com/sessions/5603/1)
+
+Why eIDAS? Need to ensure that identity data is handled properly and with sufficient protection to users.
+
+"Germany isn't a leader in digital identity." (Audience murmur.)
