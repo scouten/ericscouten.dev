@@ -175,11 +175,29 @@ _Eric Scouten_
 
 I gave a 15-minute talk about the Content Authenticity Initiative, identity, and the status of our investigation about how eIDAS-based identity might enable that technology.
 
-![Slide deck](./eic-cai-intro.pdf)
+But first ... a tech check. I was a theatre geek back in high school. Had to make sure my slides (which the AV staff at BCC were driving) were ready to go!
+
+{{ es_image(id = "es-4663-016", caption = "Berlin Congress Center, Berlin, Germany") }}
+
+Backstage, about ready to go on:
+
+{{ es_image(id = "es-4663-020", caption = "Berlin Congress Center, Berlin, Germany") }}
+
+And a few photos during my presentation, captured by my friend Judith Fleenor, executive director of the [Trust Over IP Foundation](https://trustoverip.org):
+
+{{ es_image(id = "jf-246-2683", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+
+{{ es_image(id = "jf-246-2686", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
 [Slide deck](./eic-cai-intro.pdf) (9MB PDF)
 
-# Thursday Session
+## [Panel: Real-World Examples of How Smart Wallets will Transform how we Navigate our Digital World](https://www.kuppingercole.com/sessions/5553/2)
+
+Next I was part of a 45-minute panel discussion on how digital wallets will enable new relationships between consumers and businesses and governments.
+
+{{ es_image(id = "jf-246-2693", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+
+# Thursday Sessions
 
 ## [Panel: The Wallets we Want](https://www.kuppingercole.com/sessions/5590/1)
 
