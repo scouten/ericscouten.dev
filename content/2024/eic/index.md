@@ -52,6 +52,12 @@ Content not directly on slides:
   * Value proposition: You can add distributed identity to an existing identity infrastructure.
 * [DID method rubric](https://www.w3.org/TR/did-rubric/) -- check link ... is this what Kim was referring to?
 
+## Outside Interlude
+
+A quick view of the Berlin Congress Center as I was walking toward it:
+
+{{ es_image(id = "es-4661-110", caption = "Berlin Congress Center, Berlin, Germany") }}
+
 ## [Vision 2030: Rethinking Digital Identity in the Era of AI and Decentralization](https://www.kuppingercole.com/sessions/5486)
 _Martin Kuppinger_
 
@@ -64,6 +70,8 @@ Interesting axes: Security/protection vs enablement, technology vs business
 I like the term "identity silos." (They won't go away quietly.)
 
 "The risk of siloed wallets."
+
+{{ es_image(id = "es-4662-004", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 A friend who had observed last year's conference was stunned by the sea change in this conference. Last year, decentralized identity and even eIDAS seemed like an afterthought; this year, in the keynote, we were told that it is the next big thing.
 
