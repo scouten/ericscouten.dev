@@ -40,7 +40,7 @@ Interesting things not directly on slides:
 
 ## [Defense against Mis/Disinformation Roundtable: Collaboration through Standards](https://www.kuppingercole.com/sessions/5705/1)
 
-_VERY_ full room. 
+_VERY_ full room.
 
 {{ es_image(id = "es-4661-096", caption = "Berlin Congress Center, Berlin, Germany") }}
 
@@ -215,3 +215,19 @@ No notes.
 Why eIDAS? Need to ensure that identity data is handled properly and with sufficient protection to users.
 
 "Germany isn't a leader in digital identity." (Audience murmur.)
+
+# Friday Sessions
+
+As is so often the case for multi-day conferences, the last day of the conference is notably deflated compared to the other days as people start to make their journeys home. Such was the case on this Friday.
+
+## [Panel: Decentralized Identity in Production](https://www.kuppingercole.com/sessions/5629/1)
+
+I made one more panel appearance to talk about how we anticipate decentralized identity fitting into the Content Authenticity ecosystem.
+
+{{ es_image(id = "jf-246-2746", creator = "Judith Fleenor") }}
+
+# Wrap Up
+
+After the morning panel, I needed to leave to make my own travel logistics work out.
+
+All in all, this was a very impressive conference. Very well produced. Hats off to Jörg Resch who shared that this was the last conference he would be organizing before his upcoming retirement. Whoever manages the agenda for EIC 2025 will have very big shoes to fill.
