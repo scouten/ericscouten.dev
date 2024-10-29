@@ -42,4 +42,51 @@ With that, here is my description of the sessions I'm attending this time around
 
 # Tuesday Sessions
 
-_(conference just starting ... check back soon)_
+## Session 1L: Personhood, the Killer Credential -- Killer Credential Network Effects
+
+Drummond Reed, GEN, ToIP, 
+Andor, DIF, ToIP, GAN tech workstream
+Dave, GAN tech workstream
+Andre Kudra, Esatus
+
+### Why?
+
+Three "killer" credentials in the digital world:
+
+* passport
+* drivers' license
+* credit card
+
+They work because there are _ecosystems_ of issuers. Trust is in the _ecosystem,_ not just the issuer.
+
+This work because there's an agreement amongst issuers on what the issuing conditions are.
+
+Drummond: "If we want to have breakthrough in this industry that we've been creating these past 20 years, premise number 1: They need to be multi-issuer credentials. Premise number 2: We're going to need governance."
+
+That is the fundamental premise behind the [Global Acceptance Network](https://gan.foundation).
+
+This is a business session; technical parts will be in Session 5 today.
+
+Point to blog post by Eve Maler, _[Personhood: The Killer Credential?](https://www.vennfactory.com/blog-post/personhood-the-killer-credential)._
+
+GAN brings the core infrastructure to make that work.
+
+GAN position: personhood credential is good, but there are at least two others. Also looking at known customer and known employee. Unified employee badge.
+
+Feel that this is useful from the start.
+
+GAN wants to be in the sweet spot of business, not government credentials. Looking at B2B and B2C credentials. That leaves them flexible to work with lower (LOA) levels of assurance.
+
+Will be talking later at IIW about the "ecosystem of ecosystems model." One of the key principles is that each ecosystem is self-sovereign. The purpose of the GAN is to address the problem of cross-ecosystem trust interoperability.
+
+Business model: Can you monetize your credentials? But that, of course, means that I have to have a model to trust another ecosystems.
+
+Andre: We don't want to have fifty different "killer credentials." Just a very few.
+
+Observation from Bhutan, where they are leading with a national digital ID system based on SSI. Most valuable credential currently on offer is verified phone number.
+
+Risk raised by audience member: Could known-customer credential be over-used / abused?
+
+GAN principle: The more sensitive the data, the more important it is that you verify the verifier.
+
+Goal of the GAN is not to create new standards, but rather to create the venue for collaborating to establish trust across ecosystems.
