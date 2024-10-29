@@ -44,12 +44,10 @@ With that, here is my description of the sessions I'm attending this time around
 
 ## Session 1L: Personhood, the Killer Credential -- Killer Credential Network Effects
 
-Drummond Reed, GEN, ToIP, 
-Andor, DIF, ToIP, GAN tech workstream
-Dave, GAN tech workstream
-Andre Kudra, Esatus
-
-### Why?
+* Drummond Reed, GEN, ToIP, GAN governance workstream
+* Andor Kesselman, DIF, ToIP, GAN tech workstream
+* Dave Poltorak, GAN tech workstream
+* Andre Kudra, Esatus
 
 Three "killer" credentials in the digital world:
 
