@@ -88,3 +88,22 @@ Risk raised by audience member: Could known-customer credential be over-used / a
 GAN principle: The more sensitive the data, the more important it is that you verify the verifier.
 
 Goal of the GAN is not to create new standards, but rather to create the venue for collaborating to establish trust across ecosystems.
+
+## Session 2F: Privacy Concerns Around the mDL
+_Timothy Ruff_
+
+Follow up to [Timothy's LinkedIn post](https://www.linkedin.com/posts/rufftim_aclu-digital-id-state-legislative-recommendations-activity-7250510391376551937-SWPf/) based on [ACLU's digital ID state legislative recommendations](https://www.aclu.org/documents/aclu-digital-id-state-legislative-recommendations).
+
+Timothy starts from ACLU state legislative reocmmendations, issued October 2024.
+
+Timothy's concerns center around (1) handing unlocked phone to police officer, and (2) issuer ability to track users via "phone home" mechanisms.
+
+mDL works via device engagement. This is what's happening either via QR code or NFC.
+
+Digital identity is thus far siloed by B2C interaction. Government getting into the game represents a likely consolidation of identity issuance. If government gets into digital identity, life will get likely get worse.
+
+"My dream of self-sovereign identity can turn into a nightmare of government surveillance" ... if we don't exercise care _now_ about how digital credentials are issued and used.
+
+Audience Q: What is the counter-incentive that we can present to discourage surveillance? Timothy will present something tomorrow as a potential model.
+
+Fear: Governments exempt themselves from data privacy regulations. Rare, if ever, that the capability to collect data rolls backs.
