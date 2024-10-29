@@ -90,7 +90,7 @@ GAN principle: The more sensitive the data, the more important it is that you ve
 Goal of the GAN is not to create new standards, but rather to create the venue for collaborating to establish trust across ecosystems.
 
 ## Session 2F: Privacy Concerns Around the mDL
-_Timothy Ruff_
+_Timothy Ruff and Phil Windley_
 
 Follow up to [Timothy's LinkedIn post](https://www.linkedin.com/posts/rufftim_aclu-digital-id-state-legislative-recommendations-activity-7250510391376551937-SWPf/) based on [ACLU's digital ID state legislative recommendations](https://www.aclu.org/documents/aclu-digital-id-state-legislative-recommendations).
 
