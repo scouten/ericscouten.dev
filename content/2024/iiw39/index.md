@@ -106,4 +106,138 @@ Digital identity is thus far siloed by B2C interaction. Government getting into 
 
 Audience Q: What is the counter-incentive that we can present to discourage surveillance? Timothy will present something tomorrow as a potential model.
 
-Fear: Governments exempt themselves from data privacy regulations. Rare, if ever, that the capability to collect data rolls backs.
+Fear: Governments exempt themselves from data privacy regulations. Rare, if ever, that the capability to collect data rolls back.
+
+# Wednesday Sessions
+
+## Session 6L: First Person Credentials
+
+Growing concern about overuse of mDLs as credential and privacy concerns related to such. (See Timothy's session yesterday.) Can we find -- and agree to -- a privacy-preserving credential with strong proof of personhood?
+
+Doc Searls wrote an article in 2014 titled [Why we need first person credentials on the Net](https://projectvrm.org/2014/03/19/why-we-need-first-person-technologies-on-the-net/); used as a foundation for this talk.
+
+Kim Duffy gave a quick introduction to the state of ID verification techniques. At the low-end and high-end of ID verification techniques, it's increasingly easy for generative AI to defeat verification techniques. Becoming increasingly urgent to do something new to verify personhood in a more secure method. Pressure will increase to convincingly prove personhood. If we are to avoid overuse (and privacy violations inherent in) of mDLs, the time is now.
+
+See also the [paper from OpenAI and others](https://arxiv.org/html/2408.07892v1) regarding the need for personhood credentials.
+
+Now that you understand the need for personhood credentials and the core of the GAN framework (see yesterday's talk), we'll talk about specific credential types.
+
+How about using people as mutual trust roots?
+
+People commonly exchange credentials using informal means already. Examples: In China, everybody uses WeChat. "Hi, how are you? Here's my QR code." In Bhutan, WhatsApp or LinkedIn. So we already have the ceremony that we need, except that it isn't wallet to wallet.
+
+Whiteboard diagram (I'll add <!-- IMG_2032 --> later) about how to create "verifiable relationship credential" between two people which either can then use to prove to anyone else that the other is a known person.
+
+These identifiers are truly privacy preserving and have _no relation_ to e-mail or phone or other too-well-known identifiers.
+
+Initial discussion was about person-to-person credential, but guess what? It also applies for B2C relationships as well. <!-- IMG_2033 -->
+
+Reputation is built by presenting P2P credentials to a third party (what they call an "oracle server") to aggregate P2P credentials and issue 
+
+See [Greencheck](http://greencheck.world) as an example of "three-friend authentication." (Who knows better than I'm a real person than my friends?)
+
+Interesting: They have validation of claims of social media. Hmmm ...
+
+## Session 7J: Bhutan NDI
+
+_Michael Becker, Drummond Reed_
+
+<!-- Add link to Michael's slide deck. -->
+
+Population 790K, geographically isolate.
+
+First country to launch national SSI infrastructure.
+
+Almost completely digitized currency.
+
+First carbon-negative country in the world.
+
+First country to join GAN.
+
+Bhutan's definition of mindfulness steps beyond "presence" to "compassionate presence" – having compassion for all living beings, born and unborn.
+
+They think of this when talking about modernizing their technological footprint.
+
+Used to take 10 days to create a bank account; now it's 10 seconds via SSI.
+
+140K IDs created in 8 months. 56% of smartphone owners. Working on web wallets and paper QR code wallets for those without smartphone access.
+
+Can integrate new private partners in less than a month. Very strict data minimization rules. Criminal penalties (jail time) for using data beyond authorized scope.
+
+Now working on launching same tech in other countries, especially less-developed countries. (Papua New Guinea launching now; working on Uganda.) Recouping Bhutan's cost by exporting/selling the tech to other countries.
+
+What Bhutan is doing is uprooting the whole model of ID verification. Once this proliferates as a public good, foundational ID becomes essentially free.
+
+EU is 18-24 months behind Bhutan on this process.
+
+## Session 8C: Dude (Person), Where's Your DID?
+_Eric Scouten, Adobe_
+
+I gave a brief overview of the C2PA data model and then explained the CAWG ([Creator Assertions Working Group](https://creator-assertions.github.io/)) framework for allowing content creators to add their own identity attestations to content they create.
+
+The framework roughly translates as: "The actor* described by ${credential} using a credential issued by ${issuer} produced the content described by ${signer_payload}. Signed by: ${credential_holder}." _(*Actor can be human, non-human, or organization of humans.)_
+
+These placeholders can be filled in with different data types depending on the kinds of credentials available to the content creator. We spent most of the discussion talking about the recently-introduced model of **[identity claims aggregation](https://creator-assertions.github.io/identity/1.1-draft/#_identity_claims_aggregation)** which allows a trusted third-party to gather identity claims (proof of control over social media accounts and web sites as common examples) and link them to the content created by the same actor.
+
+Slides here:
+
+![Slides for IIW 39: Dude (Person), Where's Your DID?](./2024-10-30-iiw-dude-wheres-your-did.pdf)
+
+## Session 9E: Originator Profile
+
+_Shigeya Suzuki_
+
+[Originator Profile](https://originator-profile.org/en-US/)
+
+Aimed at providing information about publisher of information, including . Typical emphasis is news media.
+
+OP provides content attestation, common technology, baseline governance model.
+
+Common technology and baseline governance model.
+
+Data model: Using the name "web content authenticity."
+
+Major difference from C2PA data model: Can authenticate web page as a whole, as part of a site, and individual media files.
+
+Originator profile can include contact information.
+
+Currently certificates can only be issued to Originator Profile members. Will be extending to Japanese news media and local Japanese government units.
+
+Status:
+
+* Phase 1 (Early 2025): Limited numer of media outlets
+  * Missing features: lacking identity flexibility (key rotation)
+* Phase 2 (Spring 2025): Outlet via aggregators and digital advertising
+  * Feature complete for static web sites
+* Phase 3 (EOY 2025): Local (Japanese) government outlets
+
+Signing per fragment of DOM.
+
+Provides traceability for content, but only for pre-approved publishing sites.
+
+## Session 10H: Sneaking SSI into the Music Industry
+_Cole Davis, Switchchord_
+
+Music industry has complex legal relationship between identified parties.
+
+<!-- IMG_2039 -->
+
+Example use case: Using a song in an advertisement. As of 2016, needed to search multiple databases to find all the parties who are owed compensation for that use.
+
+Recording: "That's a recent phenomenon based on technology invented in the early 1900s." But it has a completely separate licensing model from composition.
+
+<!-- IMG_2041 -->
+
+Ownership of rights is often sorted out well _after_ a song is published and/or streamed.
+
+Legal concepts and identity are entangled.
+
+<!-- IMG_2042 -->
+
+<!-- IMG_2044 -->
+
+Switchchord lets people:
+
+* Prove legal relationships
+* Let relationships define state of copyright
+* Enable data to update downstream databases
