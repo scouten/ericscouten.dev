@@ -42,7 +42,7 @@ Interesting things not directly on slides:
 
 _VERY_ full room.
 
-{{ es_image(id = "es-4661-096", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4661-096", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4661-096", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 This session spoke to security and user control of credentials, but did not cover misinformation/disinformation as we think of it in the CAI/C2PA sense. (We think primarily about misrepresenting context, technique, or identity as a way to mislead.)
 
@@ -56,7 +56,7 @@ Content not directly on slides:
 
 A quick view of the Berlin Congress Center as I was walking toward it:
 
-{{ es_image(id = "es-4661-110", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4661-110", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4661-110", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 ## [Vision 2030: Rethinking Digital Identity in the Era of AI and Decentralization](https://www.kuppingercole.com/sessions/5486)
 _Martin Kuppinger_
@@ -71,7 +71,7 @@ I like the term "identity silos." (They won't go away quietly.)
 
 "The risk of siloed wallets."
 
-{{ es_image(id = "es-4662-004", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4662-004", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4662-004", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 A friend who had observed last year's conference was stunned by the sea change in this conference. Last year, decentralized identity and even eIDAS seemed like an afterthought; this year, in the keynote, we were told that it is the next big thing.
 
@@ -177,17 +177,17 @@ I gave a 15-minute talk about the Content Authenticity Initiative, identity, and
 
 But first ... a tech check. I was a theatre geek back in high school. Had to make sure my slides (which the AV staff at BCC were driving) were ready to go!
 
-{{ es_image(id = "es-4663-016", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4663-016", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4663-016", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 Backstage, about ready to go on:
 
-{{ es_image(id = "es-4663-020", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4663-020", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4663-020", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 And a few photos during my presentation, captured by my friend Judith Fleenor, executive director of the [Trust Over IP Foundation](https://trustoverip.org):
 
-{{ es_image(id = "jf-246-2683", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2683", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2683", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
-{{ es_image(id = "jf-246-2686", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2686", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2686", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
 [Slide deck](./eic-cai-intro.pdf) (9MB PDF)
 
@@ -195,7 +195,7 @@ And a few photos during my presentation, captured by my friend Judith Fleenor, e
 
 Next I was part of a 45-minute panel discussion on how digital wallets will enable new relationships between consumers and businesses and governments.
 
-{{ es_image(id = "jf-246-2693", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2693", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2693", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
 # Thursday Sessions
 
@@ -224,7 +224,7 @@ As is so often the case for multi-day conferences, the last day of the conferenc
 
 I made one more panel appearance to talk about how we anticipate decentralized identity fitting into the Content Authenticity ecosystem.
 
-{{ es_image(id = "jf-246-2746", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2746", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2746", creator = "Judith Fleenor") }}
 
 # Wrap Up
 

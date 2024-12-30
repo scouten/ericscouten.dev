@@ -6,6 +6,7 @@ date = 2024-04-16
 markers = "markers.js"
 bounds = {sw = [37.404, -122.087], ne = [37.424, -122.067]}
 cover = "es-4640-061"
+cover_cdn_key = "img/v1/2024/04/es-4640-061"
 toc = true
 +++
 
@@ -41,9 +42,9 @@ There are several variations on how the agenda gets built at an unconference. In
 
 You might think that not having a predefined agenda would mean that the topics that occur could be flimsy or weak or low in value. In practice, the opposite is true. Both times I've attended this conference so far, I've had to make very difficult choices about which sessions _not_ to attend so I could attend something else which was _also_ very compelling.
 
-{{ es_image(id = "es-4640-061", caption = "Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4640-061", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4640-061", caption = "Computer History Museum, Mountain View, California") }}
 
-{{ es_image(id = "es-4640-063", caption = "Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4640-063", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4640-063", caption = "Computer History Museum, Mountain View, California") }}
 
 With that, here is my description of the sessions I'm attending this time around:
 
@@ -101,7 +102,7 @@ Some misconceptions I observed:
 ## Session 4L: Business of SSI and Authentic Data
 _Timothy Ruff_
 
-{{ es_image(id = "es-4640-077", caption = "Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4640-077", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4640-077", caption = "Computer History Museum, Mountain View, California") }}
 
 DTV founded in 2019 to launch new SSI businesses.
 
@@ -145,9 +146,9 @@ I led a discussion about some of the interesting challenges we're facing as we w
 
 [Slide deck](./iiw38-identity-session.pdf)
 
-{{ es_image(id = "jw-244-a379", caption = "Me, making a point. · Computer History Museum, Mountain View, California", creator = "Jin Wen") }}
+{{ es_cdn_image(id = "jw-244-a379", cdn_version = "v1", cdn_key = "img/v1/2024/04/jw-244-a379", caption = "Me, making a point. · Computer History Museum, Mountain View, California", creator = "Jin Wen") }}
 
-{{ es_image(id = "es-4640-084", caption = "Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4640-084", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4640-084", caption = "Computer History Museum, Mountain View, California") }}
 
 Some discussion in response to my slides:
 
@@ -277,14 +278,14 @@ How is this covered today in different media outlets? And then getting to the po
 
 **Alex:** Maybe there should also be a creator reputation WG: completely separate goal to assertions.
 
-{{ es_image(id = "es-4641-002", caption = "Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4641-002", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-002", caption = "Computer History Museum, Mountain View, California") }}
 
 ## Session 12A: A Bridge to the Future: Connecting X.509 to DIDs and VIDs
 _Drummond Reed, Eric Scouten, Scott Perry, Stephen Curren_
 
-{{ es_image(id = "jf-244-2470", caption = "Computer History Museum, Mountain View, California", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-244-2470", cdn_version = "v1", cdn_key = "img/v1/2024/04/jf-244-2470", caption = "Computer History Museum, Mountain View, California", creator = "Judith Fleenor") }}
 
-{{ es_image(id = "jf-244-2473", caption = "Computer History Museum, Mountain View, California", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-244-2473", cdn_version = "v1", cdn_key = "img/v1/2024/04/jf-244-2473", caption = "Computer History Museum, Mountain View, California", creator = "Judith Fleenor") }}
 
 ### X.509 Overview
 
@@ -312,7 +313,7 @@ DIDs and VCs split the human readable part vs the machine-readable part.
 
 DIDs allow governance to be added post-hoc. A DID can be attached to a VC at a later point depending on the governance or requirements of the DID holder.
 
-{{ es_image(id = "es-4641-003", caption = "Diagram with X.509 and DID/VC comparison. · Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4641-003", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-003", caption = "Diagram with X.509 and DID/VC comparison. · Computer History Museum, Mountain View, California") }}
 
 ### Is This a Bridge Worth Building?
 
@@ -332,4 +333,4 @@ California DMV is referencing X.509 chain via `x5c` parameter in a `did:jwk`.
 
 Look into EBSI verifiable accreditation mechanism. Alex Tweeddale sent a link to a [presentation he did regarding EBSI trust chaining](https://docs.google.com/presentation/d/1SgquY8Gjm4MddkjbEbQ-_KumyOADic1u31OmXsBbiSg).
 
-{{ es_image(id = "es-4641-004", caption = "Alex’s sketch of EBSI verifiable accreditation mechanism. · Computer History Museum, Mountain View, California") }}
+{{ es_cdn_image(id = "es-4641-004", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-004", caption = "Alex’s sketch of EBSI verifiable accreditation mechanism. · Computer History Museum, Mountain View, California") }}
