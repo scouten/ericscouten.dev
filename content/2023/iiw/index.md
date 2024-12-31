@@ -4,6 +4,7 @@ date = 2023-10-10
 
 [extra]
 cover = "es-4579-005"
+cover_cdn_key = "img/v1/2023/10/es-4579-005"
 toc = true
 +++
 
@@ -25,11 +26,11 @@ IIW is held at the lovely **[Computer History Museum](https://computerhistory.or
 
 I'll share a few photos of the venue and the conference. My non-technical friends might want to bow out after this section as it will rapidly descend into lots of deep geek speak.
 
-{{ es_image(id = "es-4579-003") }}
+{{ es_cdn_image(id = "es-4579-003", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4579-003") }}
 
-{{ es_image(id = "es-4579-005") }}
+{{ es_cdn_image(id = "es-4579-005", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4579-005") }}
 
-{{ es_image(id = "es-4579-007") }}
+{{ es_cdn_image(id = "es-4579-007", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4579-007") }}
 
 # The Format
 
@@ -37,15 +38,15 @@ IIW is conducted as an **"[unconference](https://en.wikipedia.org/wiki/Unconfere
 
 There are several variations on how the agenda gets built at an unconference. In IIW's case, there is an opening meeting on each morning in which people stand up and describe sessions they'd like to lead that day. Then there's a mad rush to schedule these sessions (see photo below) and we all choose, in the moment, which sessions to attend.
 
-{{ es_image(id = "es-4579-010", caption = "An as-yet empty schedule board.") }}
+{{ es_cdn_image(id = "es-4579-010", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4579-010", caption = "An as-yet empty schedule board.") }}
 
-{{ es_image(id = "es-4579-011", caption = "Opening discussion before agenda creation.") }}
+{{ es_cdn_image(id = "es-4579-011", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4579-011", caption = "Opening discussion before agenda creation.") }}
 
-{{ es_image(id = "es-4580-004", caption = "Introductions.") }}
+{{ es_cdn_image(id = "es-4580-004", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4580-004", caption = "Introductions.") }}
 
-{{ es_image(id = "es-4580-007", caption = "Calling sessions.") }}
+{{ es_cdn_image(id = "es-4580-007", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4580-007", caption = "Calling sessions.") }}
 
-{{ es_image(id = "es-4580-011", caption = "Sessions in the first block.") }}
+{{ es_cdn_image(id = "es-4580-011", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4580-011", caption = "Sessions in the first block.") }}
 
 You might think that not having a predefined agenda would mean that the topics that occur could be flimsy or weak or low in value. In practice, the opposite is true. Both times I've attended this conference so far, I've had to make very difficult choices about which sessions _not_ to attend so I could attend something else which was _also_ very compelling.
 
@@ -59,7 +60,7 @@ And, with that, here is my description of the sessions I'm attending this time a
 
 _Karla McKenna, Head of Standards and Managing Director of [GLEIF Americas](https://www.gleif.org/en)_
 
-{{ es_image(id = "es-4580-012") }}
+{{ es_cdn_image(id = "es-4580-012", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4580-012") }}
 
 Vendors moving through vLEI qualification program: roughly 8 vendors in progress now.
 
@@ -77,7 +78,7 @@ SDK in progress. Release candidate will be shown during demo hour. SDK includes:
 
 OORs (Official Organizational Roles) added in June 2023, lists 2000+ distinct kinds of official roles that are known to the varying forms of legal entities across 89 jurisdictions. (See photo below.)
 
-{{ es_image(id = "es-4580-014") }}
+{{ es_cdn_image(id = "es-4580-014", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4580-014") }}
 
 vLEI adding support for `did:webs` method.
 
@@ -122,7 +123,7 @@ As mentioned in the intro, IIW almost always presents difficult choices about wh
 
 _Timothy Ruff, GP, Digital Trust Ventures_
 
-{{ es_image(id = "es-4581-003") }}
+{{ es_cdn_image(id = "es-4581-003", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4581-003") }}
 
 Timothy starts by replaying [_The Four Horsemen of SSI_ from Identiverse 2023](https://pages.scmagazine.com/rs/188-UNZ-660/images/Identiverse%202023%20-%20The%20Four%20Horsemen%20of%20the%20SSI%20Apocalypse%20-%205.31.pdf) by Jeremy Grant.
 
@@ -186,7 +187,7 @@ This is actually valid. Defaults win.
 
 The meals at IIW are surprisingly good for conference food.
 
-{{ es_image(id = "es-4582-001", caption = "Buffet line.") }}
+{{ es_cdn_image(id = "es-4582-001", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4582-001", caption = "Buffet line.") }}
 
 ## Session 3A: OpenWallet Foundation 
 
@@ -195,7 +196,7 @@ The meals at IIW are surprisingly good for conference food.
 * Kaliya Young, consultant to OWF
 * Lucy Yang, consultant to OWF
 
-{{ es_image(id = "es-4582-003") }}
+{{ es_cdn_image(id = "es-4582-003", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4582-003") }}
 
 Wallets are critically important.
 
@@ -217,7 +218,7 @@ Agenda shifted to what can you contribute to OWF, which isn't particularly relev
 
 Open discussion about UX challenges in SSI.
 
-{{ es_image(id = "es-4583-004") }}
+{{ es_cdn_image(id = "es-4583-004", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4583-004") }}
 
 Issues raised:
 
@@ -257,9 +258,9 @@ BC wallet specifically avoids showing information on screen. They want to force 
 
 As is so often the case, this was one of the best-attended sessions at IIW.
 
-{{ es_image(id = "es-4584-004") }}
+{{ es_cdn_image(id = "es-4584-004", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4584-004") }}
 
-{{ es_image(id = "es-4585-001") }}
+{{ es_cdn_image(id = "es-4585-001", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4585-001") }}
 
 Recap of this blog post from ToIP: **[Mid-year Progress Report on the ToIP Trust Spanning Protocol](https://trustoverip.org/blog/2023/08/31/mid-year-progress-report-on-the-toip-trust-spanning-protocol/)**.
 
@@ -316,13 +317,13 @@ Examples of trust tasks are:
 
 Those trust tasks (layer 3 of the ToIP stack) enable an infinite set of applications on top of that (layer 4 of the ToIP stack).
 
-{{ es_image(id = "es-4586-002") }}
+{{ es_cdn_image(id = "es-4586-002", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4586-002") }}
 
 # Wednesday Sessions
 
 ## Session 6C: People Don't Want a Digital Identity; They Want ...
 
-{{ es_image(id = "es-4587-006") }}
+{{ es_cdn_image(id = "es-4587-006", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4587-006") }}
 
 Open discussion led by Adrian Gropper (the volunteer CTO of the non-profit Patient Privacy Rights Foundation). What do people want instead of digital identity?
 
@@ -359,7 +360,7 @@ Organizational identity is nuanced and complex. Contractors, employees, vendors 
 
 Many organizational identity considerations:
 
-{{ es_image(id = "es-4589-001") }}
+{{ es_cdn_image(id = "es-4589-001", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4589-001") }}
 
 Organizations have a high stake in their identity. Can not trade-off security with anything else.
 
@@ -369,9 +370,9 @@ Lifetime of identifiers is critical.
 
 New "signify" codebase helps with signing at the edge. Key event generation and signing, among other tasks.
 
-{{ es_image(id = "es-4590-001") }}
+{{ es_cdn_image(id = "es-4590-001", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4590-001") }}
 
-{{ es_image(id = "es-4590-004") }}
+{{ es_cdn_image(id = "es-4590-004", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4590-004") }}
 
 Audience Q: How much do witnesses cost? How do you find them?
 
@@ -392,7 +393,7 @@ IPEX (VC issuance and presentation exchanges). Exchanging of chained credentails
 
 I came in late. Justin was giving some background explanation of [NIST SP 800-63-4 "Digital Identity Guidelines,"](https://csrc.nist.gov/pubs/sp/800/63/4/ipd) which is currently in "initial public draft" stage.
 
-{{ es_image(id = "es-4591-006") }}
+{{ es_cdn_image(id = "es-4591-006", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4591-006") }}
 
 He was explaining subject -> CSP (Credential Service Provider) -> IDP (ID Provider) -> relying party interaction in NIST terms.
 
@@ -410,14 +411,14 @@ I'm a bit out of my element here because my work doesn't particularly overlap wi
 
 # Thursday Sessions
 
-{{ es_image(id = "es-4592-007", caption = "Taking photos of the schedule board before the first session of the morning.") }}
+{{ es_cdn_image(id = "es-4592-007", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4592-007", caption = "Taking photos of the schedule board before the first session of the morning.") }}
 
 ## Session 11B: Selective Disclosure is Useless: We Have Receipts
 
 * Timothy Ruff
 * Sam Smith
 
-{{ es_image(id = "es-4592-008") }}
+{{ es_cdn_image(id = "es-4592-008", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4592-008") }}
 
 Define **ephemeral privacy:** Privacy "exists" but is easily undone because "de-anonymized" data is easily re-correlated.
 
@@ -478,7 +479,7 @@ Much active discussion about combining credentials issued from different sources
 * Drummond Reed, Steering Committee member of the ToIP Foundation
 * Brian Richter, member of Concept and Terminology Working Group, ToIP
 
-{{ es_image(id = "es-4593-009") }}
+{{ es_cdn_image(id = "es-4593-009", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4593-009") }}
 
 I came in late. Drummond was walking through some existing SSI glossaries that already existed and why ToIP is building its own.
 
@@ -488,7 +489,7 @@ Glossary is currently available as an early draft on [Google Docs](https://docs.
 
 Brian Richter did a [bunch of tooling](https://github.com/aviarytech/tev2-ingress) to make this feasible and to assist in the translation from GitHub wikis to Google Docs. Looks like a tremendous amount of work done to make editing and viewing accessible to people who do and do not prefer working with GitHub.
 
-{{ es_image(id = "es-4594-002") }}
+{{ es_cdn_image(id = "es-4594-002", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4594-002") }}
 
 # Important Learning: Verifiable Identifiers
 
