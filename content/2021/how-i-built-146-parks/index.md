@@ -3,7 +3,8 @@ title = "How I Built 146 Parks"
 date = 2021-06-05
 
 [extra]
-cover = "146-parks-on-zola"
+cover = "es-216-146-parks-on-zola"
+cover_cdn_key = "img/v1/2021/06/es-216-146-parks-on-zola"
 +++
 
 Since last fall, I have been working on a project to visit, photograph, and document each of the [146 state parks](https://146parks.blog) in my home state of Washington in the U.S. Normally _this_ site will be devoted to my life as a developer, but today I will incorporate the outdoor-explorer and photographer parts of my life. This is an article about how I built the blog for the 146 Parks project.
@@ -12,7 +13,7 @@ Since last fall, I have been working on a project to visit, photograph, and docu
 
 Here is a screen shot from the current home page:
 
-![Gingko Petrified Forest on Zola](./146-parks-on-zola.jpg)
+{{ es_cdn_image(id = "es-216-146-parks-on-zola", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-216-146-parks-on-zola", caption = "Gingko Petrified Forest on Zola") }}
 
 ## Initial Launch: Squarespace
 
@@ -20,7 +21,7 @@ I first launched the site using [Squarespace](https://www.squarespace.com) last 
 
 Here is an equivalent screen shot from the old version of the site:
 
-![Gingko Petrified Forest on Squarespace](./146-parks-on-squarespace.jpg)
+{{ es_cdn_image(id = "es-216-146-parks-on-squarespace", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-216-146-parks-on-squarespace", caption = "Gingko Petrified Forest on Squarespace") }}
 
 The good news about launching on Squarespace: I was able to test the concept, build a prototype design, and share some of the initial posts very quickly.
 
