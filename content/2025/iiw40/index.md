@@ -142,3 +142,14 @@ There are several SCID-based DID methods:
 Drummond thinks `did:scid` is the DID method we need for first-person identifiers.
 
 Much more detail in Drummond's [slide deck (PDF)](./02m-drummond-reed-intro-to-first-person-project.pdf) or [Google Slides](https://docs.google.com/presentation/d/1-ca4U5dgld2MkP12TqixOBae5UCf0B1yzPm9Tbbx0Rg/edit?slide=id.g34043a2cb7c_0_0#slide=id.g34043a2cb7c_0_0).
+
+## Session 3G: Switchchord + `did:webs` for vLEIs
+_Cole Davis, Switchchord, Lance Byrd, GLEIF, and Jonathon Rayback_
+
+Switchchord moving from `did:web` to `did:webs`. Bringing "full decentralization" to an industry that is "historically not good with tech."
+
+Why? Gives assets and songwriters portability without tying them to specific domains or key holders. Cole: "It gives me a lot of building blocks to marry the worlds of legal and cryptography."
+
+Advantage: `did:webs` can be bound to a vLEI. But ... `did:webs` is undergoing major revision to the current draft to incorporate multi-sig.
+
+Switchchord is working on enabling `did:webs` in production. (Behind a feature flag for now.)
