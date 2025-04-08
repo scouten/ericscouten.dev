@@ -82,3 +82,63 @@ So far, this group has:
 Related to currently-proposed [W3C DID Methods WG](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html).
 
 Likely outcome: A curated list of "DIF-endorsed DID methods" which may be formally standardized elsewhere (DIF, EBSI, W3C, ToIP, etc.).
+
+See also (crunched for time at the end):
+
+* DID Traits
+* Linked VPs
+* Trust Over IP High Assurance VIDs _(linking DIDs to X.509 or web domain)_
+
+## Session 2M: Ayra: Are Ecosystems Really That Hard? – and First Person Credentials
+_Darrell O'Donnell and Drummond Reed_
+
+### [Ayra](https://ayra.forum)
+
+Swiss non-profit that aims to build trust ecosystems.
+
+Ayra facilitates ecosystem interoperability.
+
+Each ecosystem (including Ayra itself) governs itself and runs its own trust registry and decides who are legitmate issuers and verifiers within its own ecosystem.
+
+Ayra offers:
+
+* trust registry
+* conformance suite
+
+We need to know that connections between any wallet and any data consumer will work.
+
+Business -> Governance -> Tech -- in that order.
+
+Ayra follows a process to ensure that Ayra creates value for each member and partner.
+
+1. **Business:** - do we have a business case and resources to make the impact that is needed?
+2. **Governance:** - Do we have sufficient governance to create a simple ecosystem for the business case?
+3. **Technical:** Is the technology "sufficiently there?"
+
+Ayra is exploring 2-3 projects in next several months.
+
+### The First Person Project
+
+(Stay tuned for demo in session 4 today.)
+
+Define "first person:" (See Doc Searles' blog post from a decade ago.) Meaning that the identifier is acting in your interest first and foremost. Avoiding the terms "user-centric" and "self-sovereign" because they have become overloaded and contentious.
+
+Bhutan no longer allows username and password for access to government services. 50%+ of country uses national digital ID, which is truly SSI.
+
+DIDs are not enough -- we need SCIDs. A SCID is "the most self-sovereign identifier." It can be generated for free and retained for life.
+
+There are several SCID-based DID methods:
+
+* `did:webs`
+* `did:webvh`
+* `did:jlinc` (FedID)
+* `did:plc` (BlueSky)
+* `did:scid` (ToIP) – which rules them all because it can be:
+  * peer-to-peer
+  * web-based
+  * blockchain-based
+  * DHT-based
+
+Drummond thinks `did:scid` is the DID method we need for first-person identifiers.
+
+Much more detail in Drummond's [slide deck (PDF)](./02m-drummond-reed-intro-to-first-person-project.pdf) or [Google Slides](https://docs.google.com/presentation/d/1-ca4U5dgld2MkP12TqixOBae5UCf0B1yzPm9Tbbx0Rg/edit?slide=id.g34043a2cb7c_0_0#slide=id.g34043a2cb7c_0_0).
