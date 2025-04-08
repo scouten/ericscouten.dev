@@ -42,4 +42,43 @@ With that, here is my description of the sessions I'm attending this time around
 
 # Tuesday Sessions
 
-_(The day is young. Check back soon for session descriptions.)_
+## Session 1H: DID Methods Update
+_Markus Sabadello, Danube Tech_
+
+Update on the various working groups working on DID methods.
+
+### W3C
+
+Has ratified the as a [DID Core 1.0](https://www.w3.org/TR/did-1.0/) standard recommendation. New [W3C DID WG](https://www.w3.org/2019/did-wg/) is currently building:
+
+* DID 1.1 standard
+  * No breaking changes
+  * Adding dependency on the [CID 1.0](https://www.w3.org/TR/cid-1.0/) spec (controlled identifier), which is a generalization of the DID document for non-DID identifiers. Note that the DID document spec is moved from DID Core 1.0 to CID 1.0, but is backward compatible.
+  * Introduces a new media type `application/did` which can be used as a simplification compared to `application/did+json` or `application/did+ld+json`
+
+* DID resolution and DID URL dereferencing 1.0 -- adds detail around
+  * Algorithms
+  * Parameters, metadata, error coes
+  * HTTPS bindings
+
+* DID extensions registry
+  * Helping to specify behaviors of DID resolver, for example:
+    * Translate public key representations
+    * Translate relative URIs to absolute URIs
+    * Constrain to public keys that are used for specific purposes
+    * Look up DID document at a specific version or point in time
+
+### [DIF DID Methods WG](https://identity.foundation/working-groups/did-methods.html)
+
+(Collaboration between DIF, W3C CCG, ToIP, and INATPA.)
+
+This WG is intended to address the question of "which DID methods should be used and implemented." This is an effort to curate the currently-overwhelming list of DID methods.
+
+So far, this group has:
+
+* Selection criteria (How would the WG choose a shortlist of DID methods?)
+* Proposing approved/endorsed DID methods (currently about 10 are under consideration)
+
+Related to currently-proposed [W3C DID Methods WG](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html).
+
+Likely outcome: A curated list of "DIF-endorsed DID methods" which may be formally standardized elsewhere (DIF, EBSI, W3C, ToIP, etc.).
