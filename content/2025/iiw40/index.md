@@ -166,3 +166,8 @@ Ooh, cool, all the data exchange is offline.
 This is foundational to what Linux Foundation wants to address the open-source supply chain risks.
 
 Group is planning to come back to IIW 41 with a production-ready version of this same app.
+
+## Session 5B: Introduction to DIF and SSI
+_Kim Hamilton Duffy, DIF_
+
+_(No notes taken; Kim will publish slides soon.)_
