@@ -153,3 +153,16 @@ Why? Gives assets and songwriters portability without tying them to specific dom
 Advantage: `did:webs` can be bound to a vLEI. But ... `did:webs` is undergoing major revision to the current draft to incorporate multi-sig.
 
 Switchchord is working on enabling `did:webs` in production. (Behind a feature flag for now.)
+
+## Session 4L: Demo of First Person Credentials and Verifiable Reliationship Credentials
+_Drummond Reed and several others_
+
+Early (alpha) version of mobile app that demonstrates first person credentials and creation of in-person relationships.
+
+It's a "key signing party."
+
+Ooh, cool, all the data exchange is offline.
+
+This is foundational to what Linux Foundation wants to address the open-source supply chain risks.
+
+Group is planning to come back to IIW 41 with a production-ready version of this same app.
