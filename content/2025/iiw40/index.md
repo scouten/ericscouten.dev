@@ -171,3 +171,16 @@ Group is planning to come back to IIW 41 with a production-ready version of this
 _Kim Hamilton Duffy, DIF_
 
 _(No notes taken; Kim will publish slides soon.)_
+
+# Wednesday Sessions
+
+## Session 6A: Identity in Digital Media
+_Eric Scouten, Adobe_
+
+### Part 1: C2PA and CAWG Overview
+
+Discussion followed [my slide deck (PDF)](./06a-cawg-update-for-iiw40.pdf).
+
+## Part 2: What's Next?
+
+_(Notes to follow.)_
