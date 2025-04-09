@@ -183,4 +183,38 @@ Discussion followed [my slide deck (PDF)](./06a-cawg-update-for-iiw40.pdf).
 
 ### Part 2: What's Next?
 
-_(Notes to follow.)_
+_(Thank you to Luke Nispel of [OriginVault](https://www.originvault.io) for notes.)_
+
+* Overview of who's who
+  * CAI - outreach, advocacy, open source
+  * C2PA - technical standards
+  * CAWG - identity standards
+* C2PA data model
+  * Overview of the assets and supported assets
+  * Assets manifest store overview and its similarity to github
+  * Overview of assertions
+  * Each manifest has one claim
+  * Claim signature is the signed claim
+* Question about security of signing plus buggy systems that can be compromised.
+  * Scott is leading the trust governance model for the C2PA to talk about how implementation environments can be trusted.
+* Created assertions vs gathered assertions
+* What does CAWG do?
+  * Technical standards include
+    * Endorsment
+    * Identity
+    * Metadata
+    * AI Training and Data mining
+* Identity Assertion overview
+  * Which signatures should we include in the spec
+  * What does identity mean to content creators
+  * Claims Aggregator overview
+* Are we connecting the dots?
+* Most people doe not have access or understanding to these technologies
+* Example of a need is SAAG actors wanting to have auditions tagged with their identity at time of submission
+* Levels of assurance vary and need definition by the industry
+* Attestation for creation of physical objects was posited as a future use case
+* Interest in licensing and IP protection at time of publish
+* CR logo needs to be in Unicode to make it interoperable
+* What if creators do not want to be tracked but still want to use the framework?
+* Is there a trust score mechanism?
+* Museums may value physical assentation as a use case for it
