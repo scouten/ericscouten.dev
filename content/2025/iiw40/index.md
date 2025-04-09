@@ -209,7 +209,7 @@ _(Thank you to Luke Nispel of [OriginVault](https://www.originvault.io) for note
   * What does identity mean to content creators
   * Claims Aggregator overview
 * Are we connecting the dots?
-* Most people doe not have access or understanding to these technologies
+* Most people do not have access or understanding to these technologies
 * Example of a need is SAAG actors wanting to have auditions tagged with their identity at time of submission
 * Levels of assurance vary and need definition by the industry
 * Attestation for creation of physical objects was posited as a future use case
