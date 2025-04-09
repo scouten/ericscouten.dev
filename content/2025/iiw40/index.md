@@ -218,3 +218,8 @@ _(Thank you to Luke Nispel of [OriginVault](https://www.originvault.io) for note
 * What if creators do not want to be tracked but still want to use the framework?
 * Is there a trust score mechanism?
 * Museums may value physical assentation as a use case for it
+
+## Session 7F: C2PA Digital Trust Infrastructure
+_Scott Perry, Digital Governance Institute_
+
+_(Notes and slide deck to follow.)_
