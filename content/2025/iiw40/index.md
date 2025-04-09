@@ -181,6 +181,6 @@ _Eric Scouten, Adobe_
 
 Discussion followed [my slide deck (PDF)](./06a-cawg-update-for-iiw40.pdf).
 
-## Part 2: What's Next?
+### Part 2: What's Next?
 
 _(Notes to follow.)_
