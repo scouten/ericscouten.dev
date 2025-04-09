@@ -223,3 +223,8 @@ _(Thank you to Luke Nispel of [OriginVault](https://www.originvault.io) for note
 _Scott Perry, Digital Governance Institute_
 
 _(Notes and slide deck to follow.)_
+
+## Session 8E: Identity Hooks in C2PA Credentials: Privacy-Preserving Identity Bindings for Digital Content
+_Andrew Dworschack, Yakoa_
+
+Lively discussion about potential credentials to be used for CAWG identity assertion. Sadly, no notes taken.
