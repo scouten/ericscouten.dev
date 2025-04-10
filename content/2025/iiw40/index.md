@@ -228,3 +228,16 @@ _(Notes and slide deck to follow.)_
 _Andrew Dworschack, Yakoa_
 
 Lively discussion about potential credentials to be used for CAWG identity assertion. Sadly, no notes taken.
+
+## Session 10J: Content Authenticity: Physics Forums
+_Ben Curtis, JLINC_
+
+Interested in how content provenance could apply to text/HTML content.
+
+Anti-pattern: [Physics forum alleged to have generated posts on behalf of long-dormant users](https://hallofdreams.org/posts/physicsforums/).
+
+JLINC has prototyped a system to use DIDs to authenticate text content with potential for capability delegation. (In other words, authorize a system to post on your behalf.)
+
+What's the smallest possible shortcode that could serve as a pointer to more detailed signature/credential information?
+
+Decentralized method for storing signature using shortcode embedded in plain text.
