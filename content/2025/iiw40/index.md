@@ -241,3 +241,29 @@ JLINC has prototyped a system to use DIDs to authenticate text content with pote
 What's the smallest possible shortcode that could serve as a pointer to more detailed signature/credential information?
 
 Decentralized method for storing signature using shortcode embedded in plain text.
+
+## Session 11B: ~~Phone Home~~
+
+Discussion about privacy implication of varying SSI technologies. Emphasis on potential selective use of server-retrieval mode in mDL.
+
+_(Notes to follow.)_
+
+## Session 15I: LinkedCreds
+_Dmitri Zagadulin and Phillip Long, LinkedCreds_
+
+Work sponsored by US Chamber of Commerce with interest in democratizing access to and presentation of various skills credentials.
+
+50% of US workers have no documentable credentials.
+
+How to make self-asserted skills have at least a little bit more credible than hearsay?
+
+Credentials are generated via two workflows:
+
+1. Self-issued credential
+2. Recommender (who concurs that original subject has claimed skill?)
+
+Thesis: "We can make VCs more interesting by adding evidence of reputation."
+
+Visible now (for some months, at least, depending on funding) at [LinkedCreds](https://linkedcreds.allskillscount.org).
+
+This project pairs really well with first-person credential project.
