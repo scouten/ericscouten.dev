@@ -55,3 +55,4 @@ _Drummond Reed, [First Person Project](https://www.firstperson.network)_
 
 Reviewing version 1.1 of the [First Person Project White Paper](https://static1.squarespace.com/static/6834ee7c55c6376908871a6d/t/68f6402d873ecc0c40810ded/1760968749978/The+First+Person+Project+White+Paper+V1.1.pdf), just published yesterday. It's 86 pages long. This talk is an overview of the major sections. Since it's in the document, I won't transcribe everything, but will instead focus on some highlights.
 
+There's also a [slide deck](https://docs.google.com/presentation/d/1wz_nVjrHzth_QyYAuDWIf4w5Clg_olXvS-jMiv8GR4c/edit?usp=sharing) if you prefer that format.
