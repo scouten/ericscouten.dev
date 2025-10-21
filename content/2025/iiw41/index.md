@@ -42,7 +42,7 @@ There are several variations on how the agenda gets built at an unconference. In
 
 {{ es_cdn_image(id = "es-25a-7565", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7565", caption = "Computer History Museum, Mountain View, California") }}
 
-{{ es_cdn_image(id = "es-4579-010", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4579-010", caption = "An as-yet empty schedule board.") }}
+{{ es_cdn_image(id = "es-25a-7568", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7568", caption = "An as-yet empty schedule board.") }}
 
 You might think that not having a predefined agenda would mean that the topics that occur could be flimsy or weak or low in value. In practice, the opposite is true. Both times I've attended this conference so far, I've had to make very difficult choices about which sessions _not_ to attend so I could attend something else which was _also_ very compelling.
 
@@ -56,3 +56,23 @@ _Drummond Reed, [First Person Project](https://www.firstperson.network)_
 Reviewing version 1.1 of the [First Person Project White Paper](https://static1.squarespace.com/static/6834ee7c55c6376908871a6d/t/68f6402d873ecc0c40810ded/1760968749978/The+First+Person+Project+White+Paper+V1.1.pdf), just published yesterday. It's 86 pages long. This talk is an overview of the major sections. Since it's in the document, I won't transcribe everything, but will instead focus on some highlights.
 
 There's also a [slide deck](https://docs.google.com/presentation/d/1wz_nVjrHzth_QyYAuDWIf4w5Clg_olXvS-jMiv8GR4c/edit?usp=sharing) if you prefer that format.
+
+Fundamental goal: Establish a person-to-person trust layer for the internet.
+
+Ability to impersonate real people and real situations with current generative AI tools has led to an accelerating degeneration of trust.
+
+An essential part of this is to establish and facilitate person-to-person secure channels.
+
+Reference out to [personhood credentials paper](https://arxiv.org/pdf/2408.07892).
+
+{{ es_cdn_image(id = "es-25a-7575", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7575", caption = "Computer History Museum, Mountain View, California") }}
+
+Talk through how people have multiple personas that they might want to disclose selectively, for example:
+
+* political
+* religious
+* neighborhood
+* work
+* medical
+* online dating
+
