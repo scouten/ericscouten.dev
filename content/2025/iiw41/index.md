@@ -76,3 +76,45 @@ Talk through how people have multiple personas that they might want to disclose 
 * medical
 * online dating
 
+## Session 2M: The Swiss e-ID / The Failure of Decentralized Identity
+
+_Christopher Allen_
+
+This is a recap of the blog post and slide deck posted by Christopher at [Musings of a Trust Architect: Five Anchors to Preserve Autonomy & Sovereignty](https://www.lifewithalacrity.com/article/musings-swiss-eid/).
+
+A few years ago, Swiss Post Office proposed a digital ID. Referendum voted it down.
+
+Government went back and reworked to address system to address feedback. This passed by a very narrow margin in a recent referendum. Result is based on SSI technology, but is completely government-implemented (i.e. centralized). This system is open in the sense that other information _can_ be attached to government-issued digital identifiers; closed in the sense that only government can issue these credential.
+
+Law _says_ that digital identifiers are **not** required, but Chris is skeptical. The implementation will turn out to make physical identifiers into second-class citizens.
+
+Swiss cultural concerns are largely about how the platform vendors (i.e. Android and iOS) will have an outsized ability to use data obtained through those credentials.
+
+**The TLS warning:** Once you ship something, "good enough" becomes "stuck with it." TLS 1.0 was ratified in 1999 with some known problems. Problems weren't fixed until TLS 1.3 in 2019. (Gulp.)
+
+Love this quote:
+
+> If a system cannot hear you say no, it was never built for **us.** It was built for **them.**
+
+Chris describes this as "the least worst implementation" of a government-backed digital ID system.
+
+Swiss ID system doesn't have a well-established right to refuse participation.
+
+### The Sad State of Decentralized ID
+
+* eIDAS captured by Apple & Google (mDL)
+  * Very difficult for smaller orgs to participate in standards organizations. W3C makes it hard; ISO is worse because power is in the governments. ISO pricing is difficult.
+  * ISO response to "no phone home" was weak. "Phone home" is optional. But eIDAS requires vendors _to test_ phone home capacity. Ugh.
+  * Platform vendors have no fiduciary responsibility for the data contained in wallets.
+* US states following suit (it's cheap)
+* DHS funding for DID/VC has collapsed
+* KYC everywhere but insecure
+* Web3/Nostr: progress but no key rotation
+* Corporate capture of "decentralized"
+  * Example: E-mail, which was originally decentralized -- and still is in theory. In practice, it's impossible for anyone but the Major Players to run an e-mail server.
+* Builder's dilemma: pure but irrelevant vs adopted but compromised
+
+So what can we do about it?
+
+* Persuade Switzerland to do the right things during this window after the narrow referendum win.
+* Persuade more states to follow Utah's lead.
