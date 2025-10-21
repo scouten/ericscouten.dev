@@ -118,3 +118,9 @@ So what can we do about it?
 
 * Persuade Switzerland to do the right things during this window after the narrow referendum win.
 * Persuade more states to follow Utah's lead.
+
+## Session 3C: Content Authenticity 101
+
+_Eric Scouten, Adobe_
+
+Discussion followed [my slide deck (PDF)](./03c-cawg-c2pa-overview.pdf).
