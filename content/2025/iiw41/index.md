@@ -77,7 +77,6 @@ Talk through how people have multiple personas that they might want to disclose 
 * online dating
 
 ## Session 2M: The Swiss e-ID / The Failure of Decentralized Identity
-
 _Christopher Allen_
 
 This is a recap of the blog post and slide deck posted by Christopher at [Musings of a Trust Architect: Five Anchors to Preserve Autonomy & Sovereignty](https://www.lifewithalacrity.com/article/musings-swiss-eid/).
@@ -120,7 +119,23 @@ So what can we do about it?
 * Persuade more states to follow Utah's lead.
 
 ## Session 3C: Content Authenticity 101
-
 _Eric Scouten, Adobe_
 
 Discussion followed [my slide deck (PDF)](./03c-cawg-c2pa-overview.pdf).
+
+## Session 4I: Scaling the Agentic Web
+_Andor Kesselman_
+
+_TO DO:_ Look for Andor's slide deck.
+
+Started with a history of AI evolution.
+
+Andor expects that thinking of agents as _singular_ agents isn't likely to remain common. Pressures are likely to lead to orchestration of agents working with each other, **but** that comes with increased risk of attack surface and error propagation.
+
+Identity for AI agents is far more complex than human identity. For example: Where is the agent running? What version? What host OS? What compute center? What context did it have? What goals was it given?
+
+Some people are now working on **K**now **Y**our **A**gent (KYA).
+
+Interesting question: Does DNS scale up sufficiently for agents, especially given their potentially short lifetimes?
+
+As of yet, MCP servers aren't really talking to each other. That will likely change soon and may substantially increase the attack surface vector.
