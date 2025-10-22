@@ -192,3 +192,22 @@ Problem: A lot of the security libraries want access to private key material in 
 Utah mentions that there is also work to make ACDCs available as mDLs as well. Proof of concept demonstration at the SEDI summit last week.
 
 ACDC has introduced a new "cargo" field in the ACDC which represents a signed commitment to a particular serialization of (for example) a W3C VC credential, which then gets placed in the ACDC chain.
+
+## Session 9J: First Person + C2PA Registrar
+_Luke Nispel, Origin Vault_
+
+Goal: Creat an endorsement network of artists that recognize each other.
+
+Looking into how to use [First Person](https://firstperson.network) credential, which has verified person infrastructure, to build an identity claims aggregator. Their ICA implementation allows Facebook, GitHub, Adobe, many other verified IDs. Then you can anchor things on the blockchain.
+
+{{ es_cdn_image(id = "es-25a-7602", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7602", caption = "Computer History Museum, Mountain View, California") }}
+
+{{ es_cdn_image(id = "es-25a-7603", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7603", caption = "Computer History Museum, Mountain View, California") }}
+
+Have implemented their own C2PA verifier and signing infrastructure. Content uploaded to their service gets registered on blockchain. Registrar for verified persons on the Cheqd. Each Cheqd DID has a linked resources field which allows linkage to small information. Could point to URLs with additional information or C2PA Manifests hosted outside.
+
+Purpose: Peer-to-peer artist network empowered with C2PA and Cheqd.
+
+{{ es_cdn_image(id = "es-25a-7605", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7605", caption = "Computer History Museum, Mountain View, California") }}
+
+Interesting business model experiment: Artist can choose to charge the verifier to verify identity through this framework.
