@@ -175,3 +175,20 @@ I asked a question about the ordering of the layer stack. When I reviewed KERI a
 * libsodium, crypto key generation, signing, and verification (currently written primarily at C)
 
 Karla extends an open invitation to attend the marketing and outreach sessions hosted by KERI Foundation.
+
+## Session 7C: KERI Plus W3C VC Interoperability
+_Kent Bull, GLEIF_
+
+Working update on GLEIF-supported work to turn an ACDC into a W3C VC DM 1.1 or 2.0.
+
+Fundamentally trying to solve the problem of making an ACDC credential resolvable by a client using W3C VC technology who doesn't actually understand any of the KERI stack.
+
+Is it possible to go the other way? tl;dr: No. IOW can a W3C VC be turned into a valid ACDC? No, because KERI has tighter security requirements than W3C. One example is the use of JSON LD contexts, which are vulnerable to schema malleability attacks. KERI doesn't rely on any web infrastructure as part of its security posture.
+
+{{ es_cdn_image(id = "es-25a-7597", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7597") }}
+
+Problem: A lot of the security libraries want access to private key material in order to sign.
+
+Utah mentions that there is also work to make ACDCs available as mDLs as well. Proof of concept demonstration at the SEDI summit last week.
+
+ACDC has introduced a new "cargo" field in the ACDC which represents a signed commitment to a particular serialization of (for example) a W3C VC credential, which then gets placed in the ACDC chain.
