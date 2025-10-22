@@ -141,3 +141,26 @@ Some people are now working on **K**now **Y**our **A**gent (KYA).
 Interesting question: Does DNS scale up sufficiently for agents, especially given their potentially short lifetimes?
 
 As of yet, MCP servers aren't really talking to each other. That will likely change soon and may substantially increase the attack surface vector.
+
+# Wednesday Sessions
+
+## Session 6K: Driving vLEI and KERI Adoption
+_Esteban García and Kent Bull, [GLEIF](https://www.gleif.org/en)_
+
+GLEIF goal: Identity system for organizations at global scale.
+
+To drive adoption, you need a "perfect storm" of things going right. GLEIF sees this as a flywheel building on the following components:
+* **Policy:** Policy makers in each jurisdiction that registers legal entities need to be on board.
+* **Technology:** vLEI ecosystem depends and adoption/viability of KERI protocol.
+* **Market drivers:** ROI or policy requirements that drive adoption.
+
+On technology specifically, GLEIF understands that developers need access to easily-onboarded technology. Focusing on developer-oriented training materials.
+
+Hosting a [global vLEI Hackathon](https://www.gleif.org/en/newsroom/events/gleif-vlei-hackathon-2025). Intent is to promote awareness of the ecosystem and to encourage adoption/integration into existing commercial systems. Hackathon projects address these topics: finance, KYB, and supply chain. Over 100 submissions for initial round. Final presentations in next few weeks.
+
+{{ es_cdn_image(id = "es-25a-7592", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7592") }}
+
+Be aware of [vLEI training materials](https://github.com/GLEIF-IT/vlei-trainings) published by GLEIF.
+
+KeriCON coming up: First KERI-only conference. April 2026 in Salt Lake City, just before IIW. Conference web site not yet available.
+
