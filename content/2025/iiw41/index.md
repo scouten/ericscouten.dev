@@ -237,3 +237,4 @@ How will standards orgs handle the inevitable aging-out of current membership? N
 * (Utah CIO): The focus on drug cartels is missing a major point. There are large cybercrime cartels who are organized to commit digital fraud. That is potentially a much bigger threat. We're fighting organizations of tens of thousands of people with limited state and even federal resources. Argues for limits on Internet traffic from some foreign sources to help curtail digital crime.
 * Two or three people asking roughly the same questions that I did about segregation of Internet content by region/nation.
 * HF: I need to go to the places where future growth of Internet will occur.
+* (Audience): In some senses, the Internet has never truly been global. Data restrictions already exist in many parts of the world and has never been equally distributed. What do we mean and what do we aspire to when we _talk_ about a global Internet?
