@@ -136,6 +136,8 @@ Identity for AI agents is far more complex than human identity. For example: Whe
 
 Some people are now working on **K**now **Y**our **A**gent (KYA).
 
+{{ es_cdn_image(id = "es-25a-7584", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7584") }}
+
 Interesting question: Does DNS scale up sufficiently for agents, especially given their potentially short lifetimes?
 
 As of yet, MCP servers aren't really talking to each other. That will likely change soon and may substantially increase the attack surface vector.
