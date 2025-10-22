@@ -211,3 +211,26 @@ Purpose: Peer-to-peer artist network empowered with C2PA and Cheqd.
 {{ es_cdn_image(id = "es-25a-7605", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7605", caption = "Computer History Museum, Mountain View, California") }}
 
 Interesting business model experiment: Artist can choose to charge the verifier to verify identity through this framework.
+
+## Session 10N: The End of the Global Internet
+_Heather Flanagan, [Spherical Cow Consulting](https://sphericalcowconsulting.com)_
+
+Based on a recent blog post series from Heather titled [The End of the Global Internet](https://sphericalcowconsulting.com/2025/10/07/the-end-of-the-global-internet/).
+
+Compute resources (data centers), the materials needed to build computers (raw materials), etc., are not evenly distributed. Demographic evolution is going to push innovation to other parts of the world (especially Africa), but ... most of the western world is aging.
+
+What are the cultural values in Africa, where population is growing? Much more tribal. Do they think of privacy / community / consensus in the same way that we do? No. But those values are going to drive Internet culture as demographics change.
+
+Trust frameworks are at best regional and generally not interoperable.
+
+Upcoming post will talk about the implications for standards development. (Ooh, interesting!)
+
+How will standards orgs handle the inevitable aging-out of current membership? New / younger members not joining at a replacement rate.
+
+{{ es_cdn_image(id = "es-25a-7609", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7609", caption = "Computer History Museum, Mountain View, California") }}
+
+### Discussion
+
+* (Audience): Is there enough common purpose for certain things (payment, etc.) to stay global? HF: No. Look at India, which is now 65% local payment. Global payments are often not accepted. Even alternative DNS implementations are starting to crop up, which undermines global accessibility of data.
+* (Me): What about customs booths on the Internet? Will I have to declare the data I'm importing from other countries? HF: Not long. Look up Max Schremps (sp?) talks at recent EICS. Heather predicts that the current free transfer of data may not last long.
+* (Audience): What about participation in various NGOs? HF: A _lot_ of participation from countries that are trying to buy reputation.
