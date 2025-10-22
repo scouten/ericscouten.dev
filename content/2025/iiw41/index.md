@@ -126,7 +126,7 @@ Discussion followed [my slide deck (PDF)](./03c-cawg-c2pa-overview.pdf).
 ## Session 4I: Scaling the Agentic Web
 _Andor Kesselman_
 
-_TO DO:_ Look for Andor's slide deck.
+Discussion followed [Andor's slide deck](./04i-andor-scaling-the-agentic-web.pdf).
 
 Started with a history of AI evolution.
 
