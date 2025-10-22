@@ -164,3 +164,14 @@ Be aware of [vLEI training materials](https://github.com/GLEIF-IT/vlei-trainings
 
 KeriCON coming up: First KERI-only conference. April 2026 in Salt Lake City, just before IIW. Conference web site not yet available.
 
+I asked a question about the ordering of the layer stack. When I reviewed KERI a couple years ago, I had trouble figuring this out. Kent provided the following sequence (top to bottom):
+
+* TSP from ToIP
+* ACDC
+* KERI
+* CESR (serialization format)
+* verifiable data structure (key event log) verifiable key and signing history
+* cryptographic primitives (seeds, keys, signatures) and data structure primitives (text, labels, field maps)
+* libsodium, crypto key generation, signing, and verification (currently written primarily at C)
+
+Karla extends an open invitation to attend the marketing and outreach sessions hosted by KERI Foundation.
