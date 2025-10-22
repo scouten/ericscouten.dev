@@ -196,7 +196,7 @@ ACDC has introduced a new "cargo" field in the ACDC which represents a signed co
 ## Session 9J: First Person + C2PA Registrar
 _Luke Nispel, Origin Vault_
 
-Goal: Creat an endorsement network of artists that recognize each other.
+Goal: Create an endorsement network of artists that recognize each other.
 
 Looking into how to use [First Person](https://firstperson.network) credential, which has verified person infrastructure, to build an identity claims aggregator. Their ICA implementation allows Facebook, GitHub, Adobe, many other verified IDs. Then you can anchor things on the blockchain.
 
