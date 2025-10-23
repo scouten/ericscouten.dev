@@ -266,7 +266,7 @@ How do you restore identity when you don't have toehold of identity? Quite possi
 * Assumes digital literacy, connectivity, and safety _(big assumptions)_
 * Risk of exclusion for undocumented or exploited populations
 
-**Can SSI frameworks include those who lack legal status, documentation, or digital safety?*
+**Can SSI frameworks include those who lack legal status, documentation, or digital safety?**
 
 What information even can be shared amongst UN agencies? UN agencies have a lot of power to assign and/or determine identity and thus decide what services are available.
 
