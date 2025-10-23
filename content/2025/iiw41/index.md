@@ -334,3 +334,7 @@ Then demo of opening a bank account (demo bank, of course) using a presentation 
 {{ es_cdn_image(id = "es-25a-7631", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7631", caption = "Computer History Museum, Mountain View, California") }}
 
 German law requires relying parties to register (and thus get a registration certificate) and to be transparent about the data that they're requesting.
+
+To become a relying party, must register with German wallet tool. Process yet to be defined. Will have an "ecosystem management portal," but that doesn't exist yet. Looking for serious RPs to do prototype engagements. May be difficult for non-European companies to gain access.
+
+Interesting: The issuance and RP trust chains are still X.509 based. Only the individual wallet presentation is SD-JWT or mDOC based. Look for "Blueprint for the EUDI Wallet Ecosystem in Germany." Also "Architecture Documentation for the German National EUDI Wallet." Look at "PID Presentation."
