@@ -296,3 +296,24 @@ Many people (e.g. refugees) lack legal status in the country where they are phys
 What is the access to technology among displaced persons? Many adults have access to phones. Refugee welcome centers often offer fast charging and free wi-fi. This is helpful in regaining access to medical, educational history, etc.
 
 _(I had to step away after this; not sure what discussion followed.)_
+
+## Session 13A: Working Session on CAWG Integration with W3C VCs, VPs, and Maybe mDL
+_Eric Scouten and Andrew Dworschack_
+
+### Speed run through CAWG identity assertion data model
+
+I did a speed run through the [data model for CAWG's identity assertion](https://ericscouten.dev/2025/iiw40/06a-cawg-update-for-iiw40.pdf). See only slides starting with "Identity assertion in the C2PA data model" and ending with "Identity assertion / CBOR-DIAG example."
+
+### Detailed discussion: Andrew's proposals for broader VC, VP, and mDL integration
+
+These notes are available in the following locations:
+* [Notion](https://yakoa.notion.site/CAWG-1-2-2396f6c95e54805fb7e0f27603854d1d?source=copy_link) _(up to date with discussion from various CAWG members)_
+* [PDF snapshot](https://cawg.io/meeting-notes/_attachments/2025-08-11/andrew-dworschak-cawg-1.2.pdf)
+
+In Andrew's diagrams:
+
+* Blue boxes are VCs.
+* Yellow boxes are VPs that contain VCs.
+* Green boxes are C2PA Manifests.
+
+{{ es_cdn_image(id = "es-25a-7627", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7627") }}
