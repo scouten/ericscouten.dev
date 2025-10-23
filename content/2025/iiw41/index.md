@@ -238,3 +238,61 @@ How will standards orgs handle the inevitable aging-out of current membership? N
 * Two or three people asking roughly the same questions that I did about segregation of Internet content by region/nation.
 * HF: I need to go to the places where future growth of Internet will occur.
 * (Audience): In some senses, the Internet has never truly been global. Data restrictions already exist in many parts of the world and has never been equally distributed. What do we mean and what do we aspire to when we _talk_ about a global Internet?
+* (Audience): Efficiency and resiliency don't get along with each other.
+
+# Thursday Sessions
+
+## Session 11G: Perspectives from the United States: From Refugee Registration to Self-Sovereign Identity
+_Besem Obenson_
+
+Besem working for UN for 18 years mostly in the Americas. UN has lost significant funding in 2025. How to prioritize services for displaced populations? Displaced = refugees, displaced migrants, internally-displaced, etc.
+
+100MM+ people are forcibly displaced, including refugees, stateless people, asylum seekers, IDPs, and victims of human trafficking.
+
+Many lack access to legally-backed identity, which means they may lose access to protection, justice, food, health care, and freedom of movement.
+
+UNHCR manages 25MM+ records for verification, but system is not built for user control. Data misuse can endanger lives or expose people to further exploitation.
+
+**What does trust mean when the state or traffickers may both pose threats?**
+
+Besem has spoken with thousands of displaced people and also traffickers to understand what identity could look like for them.
+
+How do you restore identity when you don't have toehold of identity? Quite possible they are young enough that they don't know their own names, birthplace, birthdate (even country of birth), parents, etc.
+
+### The Decentralized Promise
+
+* SSI = user-owned, portable, cryptographically verifiable
+* Promises privacy, interop, and consent
+* Assumes digital literacy, connectivity, and safety _(big assumptions)_
+* Risk of exclusion for undocumented or exploited populations
+
+**Can SSI frameworks include those who lack legal status, documentation, or digital safety?*
+
+What information even can be shared amongst UN agencies? UN agencies have a lot of power to assign and/or determine identity and thus decide what services are available.
+
+Many people (e.g. refugees) lack legal status in the country where they are physically located. Some countries (Venezuela, Nicaragua) make it very difficult to obtain documentation.
+
+### Where the Models Clash (and Converge)
+
+* Humanitarian ID | Decentralized ID
+* Centralized trust (UN/NGO/government) | Distributed trust (blockchain, verifiable credentials)
+* Identity as protection and verification | Identity as autonomy and self-determination
+* Limited user consent | Explicit user consent
+* High operational control | High individual responsibility
+
+**Where is the ethical middle ground between protection, autonomy, and safety from exploitation?**
+
+### Open Questions and Next Steps
+
+1. What ethical principles could guide inclusive decentralized identity that protects refugees, asylm seekers, and victims of trafficking?
+2. Could humanitarian registries issue or verify decentralized credentials without risk?
+3. How can we prevent exclusion, misuse, or harm from digital proof systems?
+4. What collaboration might emerge from IIW to test these ideas?
+
+**Goal:** Identity 2-3 actionable principles or prototype ideas to explore post-IIW.
+
+### Discussion
+
+What is the access to technology among displaced persons? Many adults have access to phones. Refugee welcome centers often offer fast charging and free wi-fi. This is helpful in regaining access to medical, educational history, etc.
+
+_(I had to step away after this; not sure what discussion followed.)_
