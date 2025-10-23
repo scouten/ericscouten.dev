@@ -317,3 +317,20 @@ In Andrew's diagrams:
 * Green boxes are C2PA Manifests.
 
 {{ es_cdn_image(id = "es-25a-7627", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7627") }}
+
+## Session 15A: German EUDI Wallet
+_Phil Dustin, Kristina Yasuda, and Christian Bormann, SPRIN-D_
+
+Talking through implementation of EIDAS 2.0 which was passed into law in May 2024 and will be implemented in 2026. Lays the foundation for digital identity and trust (electronic signatures and time-stamping services) within the EU. Gives legal standing for qualified electronic signatures. EIDAS 1 (circa 2014) did not establish interoperability for digital identity.
+
+In Germany, there is both an official government-sponsored wallet app, but it is possible for private enterprises to create their own. Other countries have very different strategies. There is an EU-wide reference implementation which Germany is building upon.
+
+{{ es_cdn_image(id = "es-25a-7628", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7628", caption = "Computer History Museum, Mountain View, California") }}
+
+Demo of signing in with German ID card (which has NFC + PIN) and German ID wallet app. Back-end generates an SD-JWT and mDL that is stored in wallet.
+
+Then demo of opening a bank account (demo bank, of course) using a presentation from the wallet app. Almost instant ID verification.
+
+{{ es_cdn_image(id = "es-25a-7631", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7631", caption = "Computer History Museum, Mountain View, California") }}
+
+German law requires relying parties to register (and thus get a registration certificate) and to be transparent about the data that they're requesting.
