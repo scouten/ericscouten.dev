@@ -337,4 +337,4 @@ German law requires relying parties to register (and thus get a registration cer
 
 To become a relying party, must register with German wallet tool. Process yet to be defined. Will have an "ecosystem management portal," but that doesn't exist yet. Looking for serious RPs to do prototype engagements. May be difficult for non-European companies to gain access.
 
-Interesting: The issuance and RP trust chains are still X.509 based. Only the individual wallet presentation is SD-JWT or mDOC based. Look for "Blueprint for the EUDI Wallet Ecosystem in Germany." Also "Architecture Documentation for the German National EUDI Wallet." Look at "PID Presentation."
+Interesting: The issuance and RP trust chains are still X.509 based. Only the individual wallet presentation is SD-JWT or mDoc based. Look for "Blueprint for the EUDI Wallet Ecosystem in Germany." Also "Architecture Documentation for the German National EUDI Wallet." Look at "PID Presentation."
