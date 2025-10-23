@@ -268,7 +268,7 @@ How do you restore identity when you don't have toehold of identity? Quite possi
 
 **Can SSI frameworks include those who lack legal status, documentation, or digital safety?**
 
-What information even can be shared amongst UN agencies? UN agencies have a lot of power to assign and/or determine identity and thus decide what services are available.
+What information can even be shared amongst UN agencies? UN agencies have a lot of power to assign and/or determine identity and thus decide what services are available.
 
 Many people (e.g. refugees) lack legal status in the country where they are physically located. Some countries (Venezuela, Nicaragua) make it very difficult to obtain documentation.
 
@@ -284,12 +284,12 @@ Many people (e.g. refugees) lack legal status in the country where they are phys
 
 ### Open Questions and Next Steps
 
-1. What ethical principles could guide inclusive decentralized identity that protects refugees, asylm seekers, and victims of trafficking?
+1. What ethical principles could guide inclusive decentralized identity that protects refugees, asylum seekers, and victims of trafficking?
 2. Could humanitarian registries issue or verify decentralized credentials without risk?
 3. How can we prevent exclusion, misuse, or harm from digital proof systems?
 4. What collaboration might emerge from IIW to test these ideas?
 
-**Goal:** Identity 2-3 actionable principles or prototype ideas to explore post-IIW.
+**Goal:** Identify 2-3 actionable principles or prototype ideas to explore post-IIW.
 
 ### Discussion
 
