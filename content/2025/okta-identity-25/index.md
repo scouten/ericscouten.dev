@@ -23,7 +23,7 @@ My career has taken me lots of places, but the marquee at Nasdaq was not one I w
 
 I especially liked the video profile that they prepared about my work and that of my team.
 
-{{ es_vimeo(id = "ov-253-id25-profile", vmid = "1073640501", caption = "Okta Identity 25 profile", creator = "Okta Ventures") }}
+{{ es_cdn_video(id = "ov-253-id25-profile", cdn_version = "v1", cdn_key = "vid/v1/2025/03/ov-253-id25-profile", caption = "Okta Identity 25 profile", creator = "Okta Ventures") }}
 
 See also [Okta's blog post with a video profile](https://www.okta.com/blog/2025/03/announcing-the-2025-identity-25-highlighting-a-community-of-digital-identity/).
 
