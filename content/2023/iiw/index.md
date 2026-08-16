@@ -327,7 +327,7 @@ Those trust tasks (layer 3 of the ToIP stack) enable an infinite set of applicat
 
 Open discussion led by Adrian Gropper (the volunteer CTO of the non-profit Patient Privacy Rights Foundation). What do people want instead of digital identity?
 
-* address (email, phone, etc. -- how can we improve on that?)
+* address (email, phone, etc. — how can we improve on that?)
 * reputation
 * credential (vaccination card, drivers license, proof of age)
 * anonymity (activists, citizen journalists)

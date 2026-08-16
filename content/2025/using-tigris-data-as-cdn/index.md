@@ -13,9 +13,9 @@ But ... I have encountered a couple of tech challenges in the last year or so, s
 
 To wit:
 
-* **Git's [Large File Storage mechanism](https://git-lfs.com) isn't all that performant.** Put a few thousand large JPEGs in a git repo -- even with Git LFS -- and `git status` and its friends become noticably slower. Not so bad as to be a blocker (several seconds at worst), but ... enough that it made me stop and ask how this might scale when a few thousand becomes many thousand.
+* **Git's [Large File Storage mechanism](https://git-lfs.com) isn't all that performant.** Put a few thousand large JPEGs in a git repo — even with Git LFS — and `git status` and its friends become noticably slower. Not so bad as to be a blocker (several seconds at worst), but ... enough that it made me stop and ask how this might scale when a few thousand becomes many thousand.
 
-* **Netlify [deprecated their Large Media Service](https://answers.netlify.com/t/large-media-feature-deprecated-but-not-removed/100804) in September 2023.** All of my sites use this service because it provided a convenient and optimized link between git repo content and Netlify's content distribution network (CDN). To their credit, Netlify has -- more than a year later -- not yet announced a schedule for shutting down Large Media Service, so those of us who had built a dependency on it have already been given a very comfortable transition window. But ... the writing is on the wall, and I've been on the lookout for a suitable replacement technology.
+* **Netlify [deprecated their Large Media Service](https://answers.netlify.com/t/large-media-feature-deprecated-but-not-removed/100804) in September 2023.** All of my sites use this service because it provided a convenient and optimized link between git repo content and Netlify's content distribution network (CDN). To their credit, Netlify has — more than a year later — not yet announced a schedule for shutting down Large Media Service, so those of us who had built a dependency on it have already been given a very comfortable transition window. But ... the writing is on the wall, and I've been on the lookout for a suitable replacement technology.
 
 So, the immortal question comes up ... "Now what?"
 
@@ -25,7 +25,7 @@ So, I was listening to one of my favorite developer podcasts, [The Changelog](ht
 
 On [episode 621, "Building the developer cloud,"](https://changelog.com/podcast/621#t=1490) about a month ago, they interviewed Kevin Mackey of [fly.io](https://fly.io) and they dropped some knowledge that was exactly what I needed to hear. Quoting [Adam Stachoviak](https://changelog.com/podcast/621#transcript-91):
 
-> You were talking about [Tigris](https://www.tigrisdata.com), and correcting yourself ... Tigris is basically like the promise of object storage, but it allows you to actually build a CDN. Like, you can basically run a – you can write some JavaScript, use Tigris, and you have a CDN baked into your application. You couldn’t build anything like that before. You could try and do this with S3, but it’s so complicated to like manage multiple regions of data that it’s impossible ...
+> You were talking about [Tigris](https://www.tigrisdata.com), and correcting yourself ... Tigris is basically like the promise of object storage, but it allows you to actually build a CDN. Like, you can basically run a — you can write some JavaScript, use Tigris, and you have a CDN baked into your application. You couldn’t build anything like that before. You could try and do this with S3, but it’s so complicated to like manage multiple regions of data that it’s impossible ...
 
 Ooh, ooh ... 💡!
 
@@ -47,12 +47,12 @@ I'm now in the process of retrofitting all of my existing web content to move my
 
 I'm not sure if I've shared all of this before, but here is a summary of the technology I use for my web presences as of the beginning of 2025:
 
-* **[Zola](https://www.getzola.org)** -- an excellent Rust-based static site generator
-  * **[My custom Zola theme](https://github.com/scouten/zola-es-theme)** -- my customizations for Zola that make this and other sites look they way I want them to
-* **[GitHub](https://github.com)** -- core storage for the content
-* **[Netlify](https://www.netlify.com)** -- hosting of the rendered site content
-* **[Hyvor Talk](https://hyvor.com)** -- commenting and reactions
-* _new_ **[Tigris Data](https://www.tigrisdata.com)** -- large binary hosting (mostly images and fonts)
-* **[Vimeo](https://vimeo.com)** -- video content hosting
+* **[Zola](https://www.getzola.org)** — an excellent Rust-based static site generator
+  * **[My custom Zola theme](https://github.com/scouten/zola-es-theme)** — my customizations for Zola that make this and other sites look they way I want them to
+* **[GitHub](https://github.com)** — core storage for the content
+* **[Netlify](https://www.netlify.com)** — hosting of the rendered site content
+* **[Hyvor Talk](https://hyvor.com)** — commenting and reactions
+* _new_ **[Tigris Data](https://www.tigrisdata.com)** — large binary hosting (mostly images and fonts)
+* **[Vimeo](https://vimeo.com)** — video content hosting
 
 Hope you enjoyed this view into how I build my web sites and I'd love to hear any further thoughts on how things might evolve over time.

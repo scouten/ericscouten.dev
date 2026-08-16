@@ -56,7 +56,7 @@ Has ratified the as a [DID Core 1.0](https://www.w3.org/TR/did-1.0/) standard re
   * Adding dependency on the [CID 1.0](https://www.w3.org/TR/cid-1.0/) spec (controlled identifier), which is a generalization of the DID document for non-DID identifiers. Note that the DID document spec is moved from DID Core 1.0 to CID 1.0, but is backward compatible.
   * Introduces a new media type `application/did` which can be used as a simplification compared to `application/did+json` or `application/did+ld+json`
 
-* DID resolution and DID URL dereferencing 1.0 -- adds detail around
+* DID resolution and DID URL dereferencing 1.0 — adds detail around
   * Algorithms
   * Parameters, metadata, error coes
   * HTTPS bindings
@@ -89,7 +89,7 @@ See also (crunched for time at the end):
 * Linked VPs
 * Trust Over IP High Assurance VIDs _(linking DIDs to X.509 or web domain)_
 
-## Session 2M: Ayra: Are Ecosystems Really That Hard? – and First Person Credentials
+## Session 2M: Ayra: Are Ecosystems Really That Hard? — and First Person Credentials
 _Darrell O'Donnell and Drummond Reed_
 
 ### [Ayra](https://ayra.forum)
@@ -107,7 +107,7 @@ Ayra offers:
 
 We need to know that connections between any wallet and any data consumer will work.
 
-Business -> Governance -> Tech -- in that order.
+Business -> Governance -> Tech — in that order.
 
 Ayra follows a process to ensure that Ayra creates value for each member and partner.
 
@@ -125,7 +125,7 @@ Define "first person:" (See Doc Searles' blog post from a decade ago.) Meaning t
 
 Bhutan no longer allows username and password for access to government services. 50%+ of country uses national digital ID, which is truly SSI.
 
-DIDs are not enough -- we need SCIDs. A SCID is "the most self-sovereign identifier." It can be generated for free and retained for life.
+DIDs are not enough — we need SCIDs. A SCID is "the most self-sovereign identifier." It can be generated for free and retained for life.
 
 There are several SCID-based DID methods:
 
@@ -133,7 +133,7 @@ There are several SCID-based DID methods:
 * `did:webvh`
 * `did:jlinc` (FedID)
 * `did:plc` (BlueSky)
-* `did:scid` (ToIP) – which rules them all because it can be:
+* `did:scid` (ToIP) — which rules them all because it can be:
   * peer-to-peer
   * web-based
   * blockchain-based

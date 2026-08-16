@@ -25,7 +25,7 @@ their code as copyright it. A BASIC interpreter took five pages.
 
 In 1981 or so, my teachers encouraged me to enter a statewide student
 programming contest. I put together a gradebook program in a few weeks and
-sent it in. I then had my first brush with “look and feel” issues – long
+sent it in. I then had my first brush with “look and feel” issues — long
 before Apple and Microsoft duked it out. The gradebook program looked so
 convincingly like the just-released Visicalc that contest judging was delayed
 while the judges consulted with Visicorp to ensure that I hadn’t swiped
@@ -70,7 +70,7 @@ interactive statistical presentations. We needed a custom front-end for
 the mainframe stats package that we were using (SPSS). I first looked into
 modifying NCSA Telnet for our purposes. But the code was just too messy.
 (Little did I know then that I would eventually meet its authors and work
-right across the street from their offices -- and then later hire one of
+right across the street from their offices — and then later hire one of
 them.)
 
 ![StatShow](./statshow-icon.gif)

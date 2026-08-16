@@ -3,11 +3,11 @@ title = "Social Media 2010 :: AI 2025?"
 date = 2025-10-12
 +++
 
-I first joined social media somewhere around 2008. It was amazing. It helped me rekindle friendships with people from past chapters of my life with whom I had lost contact for years or even decades and make friends with people all over the globe who I would never have met otherwise. We shared stories of births, deaths, anniversaries, travels -- in other words, all the things that make life ... life.
+I first joined social media somewhere around 2008. It was amazing. It helped me rekindle friendships with people from past chapters of my life with whom I had lost contact for years or even decades and make friends with people all over the globe who I would never have met otherwise. We shared stories of births, deaths, anniversaries, travels — in other words, all the things that make life ... life.
 
 <!-- more -->
 
-There was a heyday somewhere around the early 2010s in which that joy of connection -- with people we _knew_ -- kept us active and engaged.
+There was a heyday somewhere around the early 2010s in which that joy of connection — with people we _knew_ — kept us active and engaged.
 
 We mostly didn't think in those days about how these sites were funded. We just enjoyed them. (OK, some people _did_ think about the costs. Anyone remember the petitions that went around _begging_ Facebook to never make us pay to use it? Good times.)
 
@@ -37,7 +37,7 @@ It's especially good at explaining to me how code works in other software langua
 
 So here I am, like so many people, being seduced by the productivity of AI.
 
-Meanwhile, AI providers are building data centers and consuming GPUs like there's no tomorrow. Some of us – myself included – are paying a _little_ for some AI tools, but I don't see anyone paying new-data-center money to anyone.
+Meanwhile, AI providers are building data centers and consuming GPUs like there's no tomorrow. Some of us — myself included — are paying a _little_ for some AI tools, but I don't see anyone paying new-data-center money to anyone.
 
 <span style="font-size: 200%">🤔</span>
 

@@ -42,7 +42,7 @@ With that, here is my description of the sessions I'm attending this time around
 
 # Tuesday Sessions
 
-## Session 1L: Personhood, the Killer Credential -- Killer Credential Network Effects
+## Session 1L: Personhood, the Killer Credential — Killer Credential Network Effects
 
 * Drummond Reed, GEN, ToIP, GAN governance workstream
 * Andor Kesselman, DIF, ToIP, GAN tech workstream
@@ -112,7 +112,7 @@ Fear: Governments exempt themselves from data privacy regulations. Rare, if ever
 
 ## Session 6L: First Person Credentials
 
-Growing concern about overuse of mDLs as credential and privacy concerns related to such. (See Timothy's session yesterday.) Can we find -- and agree to -- a privacy-preserving credential with strong proof of personhood?
+Growing concern about overuse of mDLs as credential and privacy concerns related to such. (See Timothy's session yesterday.) Can we find — and agree to — a privacy-preserving credential with strong proof of personhood?
 
 Doc Searls wrote an article in 2014 titled [Why we need first person credentials on the Net](https://projectvrm.org/2014/03/19/why-we-need-first-person-technologies-on-the-net/); used as a foundation for this talk.
 
@@ -154,7 +154,7 @@ First carbon-negative country in the world.
 
 First country to join GAN.
 
-Bhutan's definition of mindfulness steps beyond "presence" to "compassionate presence" – having compassion for all living beings, born and unborn.
+Bhutan's definition of mindfulness steps beyond "presence" to "compassionate presence" — having compassion for all living beings, born and unborn.
 
 They think of this when talking about modernizing their technological footprint.
 

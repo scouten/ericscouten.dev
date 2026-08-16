@@ -110,7 +110,7 @@ Swiss ID system doesn't have a well-established right to refuse participation.
 * KYC everywhere but insecure
 * Web3/Nostr: progress but no key rotation
 * Corporate capture of "decentralized"
-  * Example: E-mail, which was originally decentralized -- and still is in theory. In practice, it's impossible for anyone but the Major Players to run an e-mail server.
+  * Example: E-mail, which was originally decentralized — and still is in theory. In practice, it's impossible for anyone but the Major Players to run an e-mail server.
 * Builder's dilemma: pure but irrelevant vs adopted but compromised
 
 So what can we do about it?

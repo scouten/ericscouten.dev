@@ -50,7 +50,7 @@ Content not directly on slides:
 
 * Sam Curren gave a demo of OpenIDIDComm.
   * Value proposition: You can add distributed identity to an existing identity infrastructure.
-* [DID method rubric](https://www.w3.org/TR/did-rubric/) -- check link ... is this what Kim was referring to?
+* [DID method rubric](https://www.w3.org/TR/did-rubric/) — check link ... is this what Kim was referring to?
 
 ## Outside Interlude
 
@@ -136,7 +136,7 @@ Interesting assertion: Data format can convey liberty. (Counterargument: The dat
 
 Estonia saves 2-3% of GDP by using digital signatures.
 
-Awareness of friction inherent in multiple wallet implementations (i.e. each country has its own national wallet app -- is this really necessary?).
+Awareness of friction inherent in multiple wallet implementations (i.e. each country has its own national wallet app — is this really necessary?).
 
 In Netherlands, there is a substantial cost (thousands of euros) to have a vetted business identity.
 
